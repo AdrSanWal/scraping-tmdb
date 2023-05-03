@@ -117,7 +117,7 @@ class ScrapingPerson(Scraping):
                     info, age, _ = info.replace('(', '').split(' ')
                     self.age = int(age)
             if title == "Sexo":
-                genders = {"Masculino": "M", "Femenino": "F"}
+                genders = {"Masculino": "M", "Femenino": "F", "No definido": "N"}
                 info = genders[info]
         return info
 
