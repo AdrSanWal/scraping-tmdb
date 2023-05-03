@@ -13129,5 +13129,4075 @@
         683
       ]
     }
+  },
+  {
+    "pk": 684,
+    "model": "core.person",
+    "fields": {
+      "name": "Mako Graves",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 685,
+    "model": "core.person",
+    "fields": {
+      "name": "Alexis Herrera Alquijay",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 686,
+    "model": "core.person",
+    "fields": {
+      "name": "Victor Arroyo",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Producci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 687,
+    "model": "core.person",
+    "fields": {
+      "name": "Kiara Bennett",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 688,
+    "model": "core.person",
+    "fields": {
+      "name": "Andr\u00e9s P\u00e9rez Bravo",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 689,
+    "model": "core.person",
+    "fields": {
+      "name": "Gabriela Car\u00edas",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 690,
+    "model": "core.person",
+    "fields": {
+      "name": "Andr\u00e9 Fong",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 691,
+    "model": "core.person",
+    "fields": {
+      "name": "Andrea L\u00f3pez",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wOze6FgRaMbTfxP4g7cGdCMb3MX.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1976-12-07",
+      "death_date": null,
+      "age": 46,
+      "birth_place": "Cali, Colombia",
+      "biography": null
+    }
+  },
+  {
+    "pk": 692,
+    "model": "core.person",
+    "fields": {
+      "name": "Yessica Miranda",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 693,
+    "model": "core.person",
+    "fields": {
+      "name": "Oscar M\u00e9ndez",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Sonido",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 60,
+    "model": "core.film",
+    "fields": {
+      "title": "Solo Somos Carne",
+      "original_title": "Solo Somos Carne",
+      "state": "Estrenada",
+      "original_language": "Espa\u00f1ol; Castellano",
+      "budget": null,
+      "income": null,
+      "year": "2022-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9eVqMhZEbq53VFbmRNqh3yzT0xM.jpg",
+      "certification": null,
+      "overview": "Un d\u00eda normal para Bans y Uzu, poco sab\u00edan que una serie de eventos los enfrentar\u00edan cara a cara con una realidad alternativa y su oportunidad de enfrentarse a Dixon, un psic\u00f3pata perturbado con sangre en sus manos y demonios en su mente.",
+      "category": [
+        11
+      ],
+      "duration": null,
+      "score": "72%",
+      "director": [
+        684
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [],
+      "cast": [
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693
+      ]
+    }
+  },
+  {
+    "pk": 694,
+    "model": "core.person",
+    "fields": {
+      "name": "Christopher Smith",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7Un0sQeq7V9DgJw9n3OEzdo4vod.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": "1970-08-16",
+      "death_date": null,
+      "age": 52,
+      "birth_place": "Bristol, England, UK",
+      "biography": "From Wikipedia, the free encyclopedia.\nChristopher Smith, (born 16 August 1970 in Bristol, England, UK) is a British film director and screenwriter.\nDescription above from the Wikipedia article  Christopher Smith, licensed under CC-BY-SA, full list of contributors on Wikipedia."
+    }
+  },
+  {
+    "pk": 695,
+    "model": "core.person",
+    "fields": {
+      "name": "Laurie Cook",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Producci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 696,
+    "model": "core.person",
+    "fields": {
+      "name": "Jena Malone",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1qmkanVCFr3ZaXcxSXVDO8andb0.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1984-11-21",
+      "death_date": null,
+      "age": 38,
+      "birth_place": "Sparks, Nevada, USA",
+      "biography": "Jena Malone (born November 21, 1984) is an American actress, musician, and photographer. She made her film debut in Bastard Out of Carolina (1996) and has appeared in films including Ellen Foster (1997), Contact (1997), Stepmom (1998), For Love of the Game (1999), Donnie Darko (2001), Life as a House (2001), Saved! (2004), Pride & Prejudice (2005), Into the Wild (2007), The Ruins (2008), Sucker Punch (2011), The Hunger Games film series (2013\u201315), The Neon Demon (2016), Nocturnal Animals (2016), and Antebellum (2020).\nMalone is also an indie pop musician who has released music both under her own name (as \"Jena Malone and Her Bloodstains\") and as one-half of the duo The Shoe."
+    }
+  },
+  {
+    "pk": 697,
+    "model": "core.person",
+    "fields": {
+      "name": "Danny Huston",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iiVgafHitV0IbJYbaSNtHcWHF7P.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1962-05-14",
+      "death_date": null,
+      "age": 60,
+      "birth_place": "Rome, Italy",
+      "biography": "Daniel Sallis Huston (14 de mayo de 1962), conocido como Danny Huston, es un actor, guionista y director estadounidense, nacido en Italia.Es medio-hermano de la actriz Anjelica Huston y del guionista Tony Huston, todos hijos del director y actor John Huston.\nComenz\u00f3 su andadura en el mundo del cine con la pel\u00edcula \"Mr. North\", protagonizada por Anthony Edwards, Robert Mitchum y Anjelica Huston. Entre su filmograf\u00eda destaca \"Ivans Xtc\" por la cual fue nominado en la categor\u00eda de mejor actor en los Independent Spirit Awards de 2003."
+    }
+  },
+  {
+    "pk": 698,
+    "model": "core.person",
+    "fields": {
+      "name": "Thoren Ferguson",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jSHp9pZ5umUUPmAQ3A4IdrF49wD.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 699,
+    "model": "core.person",
+    "fields": {
+      "name": "Janet Suzman",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5H1cxIbRuIlpqOxU1rsGAetrsyi.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1939-02-09",
+      "death_date": null,
+      "age": 84,
+      "birth_place": "Johannesburg, South Africa",
+      "biography": "Dame Janet Suzman DBE (born 9 February 1939) is a South African and British actress."
+    }
+  },
+  {
+    "pk": 700,
+    "model": "core.person",
+    "fields": {
+      "name": "Ian Pirie",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/63VIC2jPUgrhSLvwAcbn3NeCFF5.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 701,
+    "model": "core.person",
+    "fields": {
+      "name": "Steffan Cennydd",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gUO6Z0hnRRSPCL5JggWAPk3J2vh.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1995-01-01",
+      "death_date": null,
+      "age": 28,
+      "birth_place": "Carmarthen, Carmarthenshire, Wales, UK",
+      "biography": "Steffan Cennydd is an actor, known for The Pembrokeshire Murders (2021), Sweetheart (2021) and The Feast (2021)."
+    }
+  },
+  {
+    "pk": 702,
+    "model": "core.person",
+    "fields": {
+      "name": "Will Keen",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dtErvubLEIjGPpLppBATdFpZ4NR.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1970-03-04",
+      "death_date": null,
+      "age": 53,
+      "birth_place": "Oxford, Oxfordshire, England UK",
+      "biography": null
+    }
+  },
+  {
+    "pk": 703,
+    "model": "core.person",
+    "fields": {
+      "name": "Alexandra Lewis",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qqqFEfoigDhx5g8cjdbTfr7Zy0o.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 704,
+    "model": "core.person",
+    "fields": {
+      "name": "Kit Rakusen",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 61,
+    "model": "core.film",
+    "fields": {
+      "title": "Consecration",
+      "original_title": "Consecration",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6Mmg06UfGL6T38UCnInMTgRfv7K.jpg",
+      "certification": "R",
+      "overview": "Despu\u00e9s del presunto suicidio de su hermano sacerdote, Grace viaja al remoto convento escoc\u00e9s donde cay\u00f3 y muri\u00f3. Desconfiando del relato de la Iglesia, descubre un asesinato, un sacrilegio y una inquietante verdad sobre s\u00ed misma.",
+      "category": [
+        11,
+        13
+      ],
+      "duration": "1h 30m",
+      "score": "64%",
+      "director": [
+        694
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        694,
+        695
+      ],
+      "cast": [
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704
+      ]
+    }
+  },
+  {
+    "pk": 705,
+    "model": "core.person",
+    "fields": {
+      "name": "Matt Nable",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yI7D2pwoWlNKClPym5lKCVEevEe.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1972-03-08",
+      "death_date": null,
+      "age": 51,
+      "birth_place": "Sydney, Australia.",
+      "biography": "Matthew Nable (born 8 March 1972) is an Australian film and television actor, writer and former professional rugby league footballer After playing in the Winfield Cup Premiership during the 1990s for the Manly-Warringah and South Sydney clubs, he wrote and starred in the rugby league-centered drama The Final Winter in 2007. Nable went on to act in films such as Killer Elite and Riddick. He appears on The CW's Arrow as Ra's al Ghul."
+    }
+  },
+  {
+    "pk": 706,
+    "model": "core.person",
+    "fields": {
+      "name": "Phoebe Tonkin",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xul87TVtaMp5w1yJ3OKgBvf3D3n.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1989-07-12",
+      "death_date": null,
+      "age": 33,
+      "birth_place": "Sydney, New South Wales, Australia",
+      "biography": "Phoebe Jane Elizabeth Tonkin (12 de julio de 1989) m\u00e1s conocida como Phoebe Tonkin, es una actriz y modelo australiana.\nEs conocida principalmente por interpretar a Cleo Sertori en la serie de televisi\u00f3n H2O: Just Add Water y a Faye Chamberlain en The Secret Circle. Posteriormente, interpret\u00f3 el personaje de Hayley Marshall en las series The Vampire Diaries y The Originals, respectivamente."
+    }
+  },
+  {
+    "pk": 707,
+    "model": "core.person",
+    "fields": {
+      "name": "Edward Carmody",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qlXe6cqnoUTtFsWZ5EtamK45uqm.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 708,
+    "model": "core.person",
+    "fields": {
+      "name": "Susie Porter",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ynlvVxiKsmzJ5L7Rj6Kcntnczzh.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1971-01-01",
+      "death_date": null,
+      "age": 52,
+      "birth_place": "Newcastle, Australia",
+      "biography": "Susie Porter is a Logie Award winning Australian television and film actress.  In 2000, she starred in the film Bootmen and in the crime drama film The Monkey's Mask, which she plays a lesbian private detective who falls in love with a suspect. In 2001 she appeared in the Australian movie Mullet and had a small role in Star Wars Episode II: Attack of the Clones. In 2005, Porter had a supporting role in the Australian film Little Fish. In 2006, she had a role in the film The Caterpillar Wish which won her Best Supporting Actress in the AFI Awards."
+    }
+  },
+  {
+    "pk": 709,
+    "model": "core.person",
+    "fields": {
+      "name": "Jeremy Lindsay Taylor",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bW3vqOPnIFgtps6bsaixGFnxIbj.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1973-09-19",
+      "death_date": null,
+      "age": 49,
+      "birth_place": "Sydney, Australia",
+      "biography": "From Wikipedia, the free encyclopedia.\nJeremy Lindsay Taylor (born Sydney, 19 September 1973) is an Australian actor. He finished his education at Newington College in 1991 and graduated with a Bachelor of Arts degree, with a major in drama and sociology, from the University of Newcastle.\nHe has an older brother, Mark, and an older sister, Pip. Jeremy is very close to his family.\nHe is known for his long-running role as Kurt Peterson in Heartbreak High. Since then he has appeared in Something in the Air, McLeod's Daughters, Stingers and Blue Heelers. In 2006, he guest-starred in the Doctor Who audio adventure The Reaping."
+    }
+  },
+  {
+    "pk": 710,
+    "model": "core.person",
+    "fields": {
+      "name": "Sam Parsonson",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ta9h0LYwhyDTjUDhtwCuA8B8R9I.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "Sam Parsonson is an Australian actor. He made his television debut at the age of 17 on headLand."
+    }
+  },
+  {
+    "pk": 711,
+    "model": "core.person",
+    "fields": {
+      "name": "Sam Cotton",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5MDW1t2WLfzSloMvuWaEEQvEpJv.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 712,
+    "model": "core.person",
+    "fields": {
+      "name": "George Houvardas",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/f2ok0a31rpPKqwB21Vt3nSdMmzI.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 62,
+    "model": "core.film",
+    "fields": {
+      "title": "Legado de sangre",
+      "original_title": "Transfusion",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zTQ2o0gzVZOblt6KlV3bSKg0y8z.jpg",
+      "certification": "16",
+      "overview": "Un exagente de las Fuerzas Especiales se mete en el inframundo criminal para evitar que le quiten a su \u00fanico hijo.",
+      "category": [
+        14,
+        13,
+        8
+      ],
+      "duration": "1h 45m",
+      "score": "63%",
+      "director": [
+        705
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        705
+      ],
+      "cast": [
+        47,
+        705,
+        706,
+        707,
+        708,
+        709,
+        710,
+        711,
+        712
+      ]
+    }
+  },
+  {
+    "pk": 713,
+    "model": "core.person",
+    "fields": {
+      "name": "Christopher Berkeley",
+      "photo": null,
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "United States of America",
+      "biography": null
+    }
+  },
+  {
+    "pk": 714,
+    "model": "core.person",
+    "fields": {
+      "name": "Sam Liu",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "From Wikipedia, the free encyclopedia.\nSam Liu is an American animation director and storyboard artist. He is best know for his directing on animated superhero films at both Marvel Entertainment and Warner Bros. Animation. Titles include All-Star Superman, Superman/Batman:Public Enemies, Hulk Vs, Planet Hulk, Thor: Son of Asgard and co-directing with Lauren Montgomery on Justice League: Crisis on Two Earths and Batman:Year One.\nAfter studying at Art Center College of Design as an Illustration major , Sam went into comic books drawing for Image Comics. He then moved to animation, directing on Roughnecks: Starship Troopers Chronicles and Godzilla: The Series for Sony Animation. He later went to Sony Computer Entertainment of America to design characters for PlayStation then came back to animation, winning an Emmy  for his work on The Batman (TV series) in 2006. Sam has since worked on many animated movies for Marvel Entertainment and Warner Bros. Animation and is currently directing on the upcoming Green Lantern animated series with Bruce Timm."
+    }
+  },
+  {
+    "pk": 715,
+    "model": "core.person",
+    "fields": {
+      "name": "Jase Ricci",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 716,
+    "model": "core.person",
+    "fields": {
+      "name": "David Giuntoli",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xxtB8TfKLMw9Utx5v2b3Z0nu5VL.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1980-06-18",
+      "death_date": null,
+      "age": 42,
+      "birth_place": "Milwaukee, Wisconsin, USA",
+      "biography": "From Wikipedia, the free encyclopedia.\nDavid C. Giuntoli (born June 18, 1980) is an American actor. Giuntoli first gained attention as a participant on MTV's Road Rules: South Pacific, and later on Real World/Road Rules Challenge: The Gauntlet. In 2007, he moved to Los Angeles, CA to pursue an acting career. He has since appeared on several TV series including Nip/Tuck, Veronica Mars, Grey's Anatomy, Ghost Whisperer, Privileged, Without a Trace, and Cold Case among others. He is also the host of AT&T U-Verse \"Buzz\". His music career has not been as successful, but he has performed with German DJ Flula Borg, his occasional co-host on \"Buzz,\" at The Viper Room in Los Angeles."
+    }
+  },
+  {
+    "pk": 717,
+    "model": "core.person",
+    "fields": {
+      "name": "Patrick Fabian",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ziTKeEraEksMQBg02adD22JJXb0.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1964-12-07",
+      "death_date": null,
+      "age": 58,
+      "birth_place": "Pittsburgh, Pennsylvania, USA",
+      "biography": "Patrick Fabian (born December 7, 1964) is an American actor who has a number of television credits to his name including Better Call Saul, Joan of Arcadia, CSI: Crime Scene Investigation, 24, Veronica Mars, Rude Awakening, Xena: Warrior Princess, Star Trek: Voyager and among other series."
+    }
+  },
+  {
+    "pk": 718,
+    "model": "core.person",
+    "fields": {
+      "name": "John DiMaggio",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/awmyFwU6ErFJbGFFzhBYZ9AQn8m.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1968-09-04",
+      "death_date": null,
+      "age": 54,
+      "birth_place": "North Plainfield, New Jersey, USA",
+      "biography": "John William DiMaggio is an American voice actor. A native of North Plainfield, New Jersey, he is known for his gruff, deep voice and New Jersey accent, which he uses to voice mainly villains and anti-heroes. He is best known for his voice roles of Bender in Futurama, Dr. Drakken and Motor Ed in Kim Possible, Marcus Fenix in Gears of War and Gears of War 2, Rico in the Penguins of Madagascar series, and Wakka as well as Kimahri Ronso in Final Fantasy X. He now participates in the animated child comedy Chowder as Shnitzel, and Jake in the new animated series Adventure Time with Finn and Jake."
+    }
+  },
+  {
+    "pk": 719,
+    "model": "core.person",
+    "fields": {
+      "name": "Karan Brar",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cV6axHrp53fBaN1BVf3xsgrcA41.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1999-01-18",
+      "death_date": null,
+      "age": 24,
+      "birth_place": "Redmond, Washington, USA",
+      "biography": "Karan Brar (born January 18, 1999) is an American actor. He portrayed Chirag Gupta in the Diary of a Wimpy Kid film franchise and Ravi Ross on the Disney Channel Original Series Jessie and its subsequent spin-off Bunk'd."
+    }
+  },
+  {
+    "pk": 720,
+    "model": "core.person",
+    "fields": {
+      "name": "Navid Negahban",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cPsYncbHK7J76Sm4bc1rtgRh5qf.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1968-06-02",
+      "death_date": null,
+      "age": 54,
+      "birth_place": "Mashhad, Iran",
+      "biography": "Navid, aunque a veces se le llama \"el hombre de las mil caras\", todav\u00eda es considerado como Abu Nazir, el enigm\u00e1tico l\u00edder de al-Qaeda que jug\u00f3 durante dos temporadas en la serie original de Showtime, \"Homeland\", ganadora del Emmy. Entre sus muchos seguidores est\u00e1n el presidente israel\u00ed, Shimon Peres, y el presidente de los Estados Unidos, Barack Obama. El vers\u00e1til ladr\u00f3n de escenas ha recibido elogios cr\u00edticos como el delegado de IRK Jamot en la temporada final de la exitosa serie de Fox, \"24\", y ha aparecido en \"CSI: NY\", \"CSI: Miami\", \"NCIS: Los Angeles\" \"Ley y orden: SVU\", \"The Closer\", \"The Game\", \"Criminal Minds\", \"Lost\", \"JAG\", \"The West Wing\", \"Without a Race\", \"The Shield\" y otros.\nLa estrella de Navid sigue subiendo en la gran pantalla. Fue un destacado en el \u00e9xito de taquilla nominado al Oscar de Clint Eastwood, \"American Sniper\", como Sheikh Al-Obodi, un local iraqu\u00ed que pag\u00f3 para ayudar a los francotiradores a localizar sus objetivos. A continuaci\u00f3n se lo puede ver en \"Baba Joon\", la primera pel\u00edcula en lengua persa filmada en Israel por el director Yuval Delshad. \"Variedad\" proclama a Navid una vez m\u00e1s \"se transforma en el papel de Itzjak\", un granjero de pavos que lucha por transmitir sus tradiciones iran\u00edes a su precoz hijo israel\u00ed. La pel\u00edcula, que recibi\u00f3 la mejor pel\u00edcula en los Premios Ophir de Israel, ahora ser\u00e1 la presentaci\u00f3n del Estado jud\u00edo para los Premios de la Academia a la Mejor Pel\u00edcula Extranjera."
+    }
+  },
+  {
+    "pk": 721,
+    "model": "core.person",
+    "fields": {
+      "name": "Darin De Paul",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vGzewVsLWtXyEU7X3iNdjWEd6y9.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "Darin De Paul is an actor, known for Robots (2005), Julie & Julia (2009) and No Time for Nuts (2006)."
+    }
+  },
+  {
+    "pk": 722,
+    "model": "core.person",
+    "fields": {
+      "name": "Emily O'Brien",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oL1EY7DgK7Si3Db7mvQiNN2r2Zy.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-05-28",
+      "death_date": null,
+      "age": 37,
+      "birth_place": "Bedfordshire, England, UK",
+      "biography": null
+    }
+  },
+  {
+    "pk": 723,
+    "model": "core.person",
+    "fields": {
+      "name": "Christopher Gorham",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/u3D21bfXweqiGWalFxMq2jONcYi.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1974-08-14",
+      "death_date": null,
+      "age": 48,
+      "birth_place": "Fresno, California, USA",
+      "biography": "Christopher David Gorham (born August 14, 1974) is an American actor known for the series ABC's Ugly Betty, Popular, Odyssey 5, Jake 2.0, Medical Investigation, Out of Practice, Harper's Island, and Covert Affairs."
+    }
+  },
+  {
+    "pk": 724,
+    "model": "core.person",
+    "fields": {
+      "name": "David Dastmalchian",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sF7yHISn8kuBy7T39gB5dMpObpk.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1977-07-21",
+      "death_date": null,
+      "age": 45,
+      "birth_place": "Pennsylvania, USA",
+      "biography": "David Dastmalchian (21 de julio de 1977) es un actor estadounidense conocido por su trabajo en cine, televisi\u00f3n y teatro. Originalmente de Kansas, estudi\u00f3 en la Universidad de DePaul. En Chicago, recibi\u00f3 papeles en El zoo de cristal y en Buried Child."
+    }
+  },
+  {
+    "pk": 63,
+    "model": "core.film",
+    "fields": {
+      "title": "Batman: The Doom That Came to Gotham",
+      "original_title": "Batman: The Doom That Came to Gotham",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/e4rUCHohzoXL6agiPCwe00avWS0.jpg",
+      "certification": "PG-13",
+      "overview": "El explorador Bruce Wayne desata accidentalmente un antiguo mal y regresa a Ciudad G\u00f3tica despu\u00e9s de estar fuera durante dos d\u00e9cadas. All\u00ed, Batman lucha contra las fuerzas sobrenaturales de Lovecraft y se encuentra con aliados y enemigos como Green Arrow, Ra's al Ghul, Mr. Freeze, Killer Croc, Two-Face y James Gordon.",
+      "category": [
+        3,
+        5,
+        11,
+        0,
+        12
+      ],
+      "duration": "1h 26m",
+      "score": "66%",
+      "director": [
+        713,
+        714
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        715
+      ],
+      "cast": [
+        716,
+        717,
+        718,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724
+      ]
+    }
+  },
+  {
+    "pk": 725,
+    "model": "core.person",
+    "fields": {
+      "name": "Jonathan M. Goldstein",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/s1fwSaxlYvw3KdmRvT1ZSYhsEkJ.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "age": 54,
+      "birth_place": "New York City, New York, USA",
+      "biography": "Jonathan M. Goldstein was born in 1969 in. He is a producer and writer."
+    }
+  },
+  {
+    "pk": 726,
+    "model": "core.person",
+    "fields": {
+      "name": "John Francis Daley",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rKZL3e8gI2tQD6Kv0QojXK5sG4u.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-07-20",
+      "death_date": null,
+      "age": 37,
+      "birth_place": "Wheeling, Illinois, USA",
+      "biography": "John Francis Daley (nacido el 20 de julio de 1985) es un actor, cantante y director de cine y televisi\u00f3n estadounidense, a veces acreditado como John Daley o John Francis Daly. Es mejor conocido por interpretar a Sam Weir en la comedia dram\u00e1tica de NBC Freaks and Geeks y su papel actual como Lance Sweets en la serie Bones. Toca teclados y voces para la banda Dayplayer."
+    }
+  },
+  {
+    "pk": 727,
+    "model": "core.person",
+    "fields": {
+      "name": "Michael Gilio",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tiLt6Qo5xaG2ktJJENVRGddAiq4.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 728,
+    "model": "core.person",
+    "fields": {
+      "name": "Chris McKay",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mQ42IPTpYQUOHuaVj19O1rBaZx9.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": "1973-11-11",
+      "death_date": null,
+      "age": 49,
+      "birth_place": "Winter Park, Florida, USA",
+      "biography": "Chris McKay (born November 11, 1973) is an American film and television director, producer, editor, animator, and visual effects artist. In television, he is best known for directing and editing three seasons of \"Robot Chicken\" and two seasons of \"Moral Orel.\" In film, after writing and directing the independent romantic drama \"2wks, 1yr\" (2002), he went on to work as an animation co-director on \"The Lego Movie\" (2014) with Phil Lord and Christopher Miller, then directed the spinoff feature \"The Lego Batman Movie\" (2017)."
+    }
+  },
+  {
+    "pk": 729,
+    "model": "core.person",
+    "fields": {
+      "name": "Chris Pine",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/d8hGMH1igEFnpNFEEFdP3yFHV3U.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1980-08-26",
+      "death_date": null,
+      "age": 42,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Christopher Whitelaw Pine (26 de agosto de 1980), m\u00e1s conocido como Chris Pine, es un actor y modelo estadounidense famoso por interpretar a James T. Kirk en la saga reboot de Star Trek y a Jake Hardin en Just My Luck."
+    }
+  },
+  {
+    "pk": 730,
+    "model": "core.person",
+    "fields": {
+      "name": "Reg\u00e9-Jean Page",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2NYvHjBlfVeY0gDJLaQXnw4Lfxm.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1988-04-27",
+      "death_date": null,
+      "age": 35,
+      "birth_place": "Harare, Zimbabwe",
+      "biography": "Reg\u00e9-Jean Page es un actor zimbabuense e ingl\u00e9s. Es conocido por interpretar a Chicken George en la miniserie Roots del 2016 y de 2018 a 2019 fue miembro habitual del elenco del drama legal de ABC For the People."
+    }
+  },
+  {
+    "pk": 731,
+    "model": "core.person",
+    "fields": {
+      "name": "Justice Smith",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rChTfyqwnPVw0cLqKpTa1TCsNcm.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1995-08-09",
+      "death_date": null,
+      "age": 27,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Justice Smith (9 de agosto de 1995) es un actor estadounidense. Es conocido por interpretar a Radar en la pel\u00edcula Paper Towns (2015) y a Ezekiel en la serie de Netflix The Get Down (2016\u20132017)."
+    }
+  },
+  {
+    "pk": 732,
+    "model": "core.person",
+    "fields": {
+      "name": "Sophia Lillis",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pGwA6WnqlSEw9BpHzeWDKReWdls.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "2002-02-13",
+      "death_date": null,
+      "age": 21,
+      "birth_place": "Crown Heights, Brooklyn, New York City, New York, USA",
+      "biography": "Sophia Lillis (born February 13, 2002), is an American actress. She is known for her role as Beverly Marsh in the horror films It (2017) and It: Chapter Two (2019) and for her starring role as a teenager with telekinetic abilities in the Netflix drama series I Am Not Okay with This (2020). Lillis has also appeared in the HBO psychological thriller miniseries Sharp Objects (2018), in which she portrayed the younger version of Amy Adams' character in flashbacks."
+    }
+  },
+  {
+    "pk": 733,
+    "model": "core.person",
+    "fields": {
+      "name": "Hugh Grant",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tUHkXYdwm405DjBm2IpPxGjYkjj.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1960-09-09",
+      "death_date": null,
+      "age": 62,
+      "birth_place": "London, England, UK",
+      "biography": "Hugh John Mungo Grant (born 9 September 1960) is an English actor and film producer. He has received a Golden Globe Award, a BAFTA, and an Honorary C\u00e9sar. His movies have also earned more than $2.4 billion from 25 theatrical releases worldwide. Grant achieved international stardom after appearing in Richard Curtis's sleeper hit Four Weddings and a Funeral (1994). He used this breakthrough role as a frequent cinematic persona during the 1990s to deliver comic performances in mainstream films like Mickey Blue Eyes (1999) and Notting Hill (1999). By the turn of the century, he had established himself as a leading man skilled with a satirical comic talent. Since the 2000s, Grant has expanded his oeuvre with critically acclaimed turns as a cad in Bridget Jones's Diary (2001), About A Boy (2002), Love Actually (2003), and American Dreamz (2006)."
+    }
+  },
+  {
+    "pk": 734,
+    "model": "core.person",
+    "fields": {
+      "name": "Daisy Head",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5DcAwmYWDC7mvxMoceZIzcnpT2L.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1991-03-07",
+      "death_date": null,
+      "age": 32,
+      "birth_place": "Fulham, London, England",
+      "biography": "Daisy May Head (born 7 March 1991) is an English actress. She played Grace in the American drama series Guilt, Amy Stevenson in BBC One's drama The Syndicate, Kate Bottomley in the third season of Hulu series Harlots and Genya Safin in the Netflix show Shadow and Bone."
+    }
+  },
+  {
+    "pk": 735,
+    "model": "core.person",
+    "fields": {
+      "name": "Jason Wong",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jMYtdS6ndcBVSljRgjeuvoHWctJ.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1986-03-24",
+      "death_date": null,
+      "age": 37,
+      "birth_place": "London, England",
+      "biography": "Jason Wong is a British actor, known for his role as Kai in the 2018 ITV series Strangers."
+    }
+  },
+  {
+    "pk": 64,
+    "model": "core.film",
+    "fields": {
+      "title": "Dungeons & Dragons: Honor entre ladrones",
+      "original_title": "Dungeons & Dragons: Honor Among Thieves",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": "$151,000,000.00",
+      "income": "$194,160,000.00",
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg",
+      "certification": "PG-13",
+      "overview": "Un ladr\u00f3n encantador y una banda de aventureros incre\u00edbles emprenden un atraco \u00e9pico para recuperar una reliquia perdida, pero las cosas salen rematadamente mal cuando se topan con las personas equivocadas. Adaptaci\u00f3n cinematogr\u00e1fica del primer juego de rol de la historia, publicado por primera vez en 1974.",
+      "category": [
+        1,
+        5,
+        6
+      ],
+      "duration": "2h 14m",
+      "score": "75%",
+      "director": [
+        725,
+        726
+      ],
+      "characters": [],
+      "screenplay": [
+        725,
+        726,
+        727
+      ],
+      "story": [
+        727,
+        728
+      ],
+      "novel": [],
+      "writer": [],
+      "cast": [
+        729,
+        472,
+        730,
+        731,
+        732,
+        733,
+        734,
+        193,
+        735
+      ]
+    }
+  },
+  {
+    "pk": 736,
+    "model": "core.person",
+    "fields": {
+      "name": "Yeon Sang-ho",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dLP1p4AkU1zwJkDboct58Uub9S7.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": "1978-01-01",
+      "death_date": null,
+      "age": 45,
+      "birth_place": "Seoul, South Korea",
+      "biography": "Yeon Sang-ho (born 1978) is a South Korean film director and screenwriter. He wrote and directed the animated films The King of Pigs (2011) and The Fake (2013), and the live-action film Train to Busan (2016)."
+    }
+  },
+  {
+    "pk": 737,
+    "model": "core.person",
+    "fields": {
+      "name": "Kang Soo-youn",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dW8KOz42bI6I5ZtDlGx5AsXlcws.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1966-08-18",
+      "death_date": "2022-05-07",
+      "age": 55,
+      "birth_place": "Seoul, South Korea",
+      "biography": "Kang Soo-yeon (18 August 1966 \u2013 7 May 2022) was a South Korean actress. She was born in Seoul, South Korea and was one of the best known and internationally acclaimed stars from South Korea from the mid-1980s to the end of the 1990s."
+    }
+  },
+  {
+    "pk": 738,
+    "model": "core.person",
+    "fields": {
+      "name": "Kim Hyun-joo",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AeYZSlVauG1BMJdzfyaw3u5jcyA.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1977-04-24",
+      "death_date": null,
+      "age": 46,
+      "birth_place": "Goyang, Gyeonggi, South Korea",
+      "biography": "Kim Hyun-joo (\uae40\ud604\uc8fc) is a South Korean actress."
+    }
+  },
+  {
+    "pk": 739,
+    "model": "core.person",
+    "fields": {
+      "name": "Ryu Kyung-soo",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yAHJk1EyGdGidl42ejLROxYkPPK.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1992-10-12",
+      "death_date": null,
+      "age": 30,
+      "birth_place": "Seoul, South Korea",
+      "biography": null
+    }
+  },
+  {
+    "pk": 740,
+    "model": "core.person",
+    "fields": {
+      "name": "Uhm Ji-won",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tpWZnjZUREwMSzCbKbGPI6DVUdw.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1977-12-25",
+      "death_date": null,
+      "age": 45,
+      "birth_place": "Daegu, South Korea",
+      "biography": "Uhm Ji Won is a Korean actress who was born on December 25th, 1977 in South Korea. She had her first acting job in 1998, when she appeared on the television show Vector Man. In 2000, she appeared in her first film, called The Record. However, it was not until 2004, after she had done another two movies and three television shows, that she got her first big break in acting. She was cast to play one of the leads in the dramatic film The Scarlet Letter. The film was a huge success and critics took note of her amazing acting talent."
+    }
+  },
+  {
+    "pk": 741,
+    "model": "core.person",
+    "fields": {
+      "name": "Lee Dong-hee",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/j909zw5TZxQyXjJ3KxzlyNwer7m.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1972-04-26",
+      "death_date": null,
+      "age": 51,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 742,
+    "model": "core.person",
+    "fields": {
+      "name": "Han Woo-yeol",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xFZ7vSyvxcHDSuhg6G0MXpNsjcT.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-09-21",
+      "death_date": null,
+      "age": 37,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 743,
+    "model": "core.person",
+    "fields": {
+      "name": "Lee Ga-kyung",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ulDfQQjFLoe6XFjqEM4zudELLcE.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1987-10-11",
+      "death_date": null,
+      "age": 35,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 744,
+    "model": "core.person",
+    "fields": {
+      "name": "Shin Min-jae",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rTnK1g6ZCGab4qd0iN6uIwyTGsT.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1983-04-01",
+      "death_date": null,
+      "age": 40,
+      "birth_place": "South Korea",
+      "biography": null
+    }
+  },
+  {
+    "pk": 745,
+    "model": "core.person",
+    "fields": {
+      "name": "Kim Sun-hyuk",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/npHmShnHoJhCMdgFooDhw8WP3Ui.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1977-11-25",
+      "death_date": null,
+      "age": 45,
+      "birth_place": "Seoul, South Korea",
+      "biography": "Kim Sun Hyuk is a South Korean actor. He was born on November 25, 1977 and made his debut as an actor in 2008. Since then, he has appeared in various films and television dramas, including \u201cGourmet\u201d (2008), \u201cHotel King\u201d (2014), and \u201c1% of Something\u201d (2016)."
+    }
+  },
+  {
+    "pk": 65,
+    "model": "core.film",
+    "fields": {
+      "title": "JUNG_E",
+      "original_title": "\uc815\uc774",
+      "state": "Estrenada",
+      "original_language": "Coreano",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg",
+      "certification": "12",
+      "overview": "Siglo XXII. En un planeta Tierra inhabitable, el resultado de una guerra civil depende de la clonaci\u00f3n del cerebro de una soldado de \u00e9lite para crear un mercenario robot.",
+      "category": [
+        2
+      ],
+      "duration": "1h 38m",
+      "score": "63%",
+      "director": [
+        736
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        736
+      ],
+      "cast": [
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745
+      ]
+    }
+  },
+  {
+    "pk": 746,
+    "model": "core.person",
+    "fields": {
+      "name": "Jorge Macaya",
+      "photo": null,
+      "gender": "M",
+      "principal_role": "Edici\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 747,
+    "model": "core.person",
+    "fields": {
+      "name": "Martha Higareda",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xYLqdug60YhTD4NCe2a8YhnwuAN.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1983-08-24",
+      "death_date": null,
+      "age": 39,
+      "birth_place": "Villa Hermosa, Tabasco, Mexico",
+      "biography": "Martha Elba Higareda Cervantes es una actriz mexicana nacida el 24 de agosto de 1983 en la ciudad de Villahermosa, Tabasco, M\u00e9xico."
+    }
+  },
+  {
+    "pk": 748,
+    "model": "core.person",
+    "fields": {
+      "name": "Paola Nu\u00f1ez",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-04-08",
+      "death_date": null,
+      "age": 38,
+      "birth_place": "Tijuana, Baja California, Mexico",
+      "biography": "Paola Nu\u00f1ez was born on April 8, 1985 in Tijuana, Baja California, Mexico. She is an actress and producer, known for Without Her (2005), Desire (2013) and Behind the Power (2013)."
+    }
+  },
+  {
+    "pk": 749,
+    "model": "core.person",
+    "fields": {
+      "name": "Alejandra Ambrosi",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gj0UnWssKktqTyjCvnqfkTHcCDs.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 750,
+    "model": "core.person",
+    "fields": {
+      "name": "Valeria Vera",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8rv6YZca1iLSZf3QiTUiw846Gsl.jpg",
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1979-03-12",
+      "death_date": null,
+      "age": 44,
+      "birth_place": "Mexico City, Mexico",
+      "biography": null
+    }
+  },
+  {
+    "pk": 751,
+    "model": "core.person",
+    "fields": {
+      "name": "Claudia Pineda",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ySvyS055R2iaKwAkDLzA4ACIHqM.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 752,
+    "model": "core.person",
+    "fields": {
+      "name": "Ricardo Mu\u00f1oz Senior",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cmbgW6tUIfynkejJo3LMChyDvdH.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1989-03-21",
+      "death_date": null,
+      "age": 34,
+      "birth_place": "Caracas, Venezuela",
+      "biography": null
+    }
+  },
+  {
+    "pk": 753,
+    "model": "core.person",
+    "fields": {
+      "name": "Ricardo Reynaud",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xaRUbt0WGB56qgcs3U3R8jqK6eW.jpg",
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "Mexico",
+      "biography": null
+    }
+  },
+  {
+    "pk": 754,
+    "model": "core.person",
+    "fields": {
+      "name": "Mauricio Isaac",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uFNrLnDv5eo20SwBeN8tFdsEKls.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 755,
+    "model": "core.person",
+    "fields": {
+      "name": "Horacio Garc\u00eda Rojas",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/75Yo3FmhEOZhMzP0ImYQIoalurn.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1981-02-14",
+      "death_date": null,
+      "age": 42,
+      "birth_place": "Mexico City, Mexico",
+      "biography": "Horacio Garcia Rojas is an actor and producer, known for Narcos: M\u00e9xico (2018), Texas Rising (2015) and Diablero (2018)."
+    }
+  },
+  {
+    "pk": 66,
+    "model": "core.film",
+    "fields": {
+      "title": "Fuga de Reinas",
+      "original_title": "Fuga de Reinas",
+      "state": "Estrenada",
+      "original_language": "Espa\u00f1ol; Castellano",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3raY76KtEzSHya5rcC2j37qGI9L.jpg",
+      "certification": "M18",
+      "overview": "Cuando cuatro mujeres finalmente hacen el viaje por carretera que planearon en la escuela secundaria, no tienen idea de las cosas con las que se encontrar\u00e1n, a veces literalmente.",
+      "category": [
+        6,
+        0
+      ],
+      "duration": "1h 36m",
+      "score": "70%",
+      "director": [
+        746
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        747
+      ],
+      "cast": [
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755
+      ]
+    }
+  },
+  {
+    "pk": 756,
+    "model": "core.person",
+    "fields": {
+      "name": "Samantha Lee Howe",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 757,
+    "model": "core.person",
+    "fields": {
+      "name": "Giles Alderson",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hw9PnPfkqA6JrwDhREtB8QtLdTU.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1977-01-01",
+      "death_date": null,
+      "age": 46,
+      "birth_place": "Harrogate, Yorkshire, England, UK",
+      "biography": "Giles was born in Harrogate, Yorkshire, UK. He has recently directed 'The Dare', 'Knights of Camelot' 'World of Darkness' and 'Food For Thought' and produced 'A Serial Killers Guide To Life' and 'Cassette' feature films. He starred in the films, I Want Candy, The Torment, The Harsh Light of Day, The Damned United and is the founder Figi Productions where he has produced and directed eight award winning films including, 'The Heart of the Forest', '47 Cleveland' 'Taken' 'Barry Brown' and the first 3D short drama to be filmed in the UK 'Sportsday 3D'. He is now in prep for his drama feature 'The Nobodies' and is in the edit 'Knights of Camelot' and soon to be released his writing and directing debut; the psychological horror feature 'The Dare' which won the Audience Award at Popcorn Frights Film Festival, starring Richard Brake, Alexandra Evans, Richard Short, Bart Edwards and Robert Maaser for Millennium Films and B2Y."
+    }
+  },
+  {
+    "pk": 758,
+    "model": "core.person",
+    "fields": {
+      "name": "Emily Berrington",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/t6zbOJjAFmMVgRQbcFLZnux8prD.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1986-12-07",
+      "death_date": null,
+      "age": 36,
+      "birth_place": "Oxford, Oxfordshire, England, UK",
+      "biography": "Emily Berrington is a British stage, film and television actress, best known for playing television characters Simone Al-Harazi on \"24: Live Another Day\" as well as regular character Niska on the British show \"Humans\"."
+    }
+  },
+  {
+    "pk": 759,
+    "model": "core.person",
+    "fields": {
+      "name": "Ben Lloyd-Hughes",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cEsPLtLwCneRE99VkNIKUri5rk0.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1988-04-14",
+      "death_date": null,
+      "age": 35,
+      "birth_place": "Westminster, London, England, UK",
+      "biography": "Benedict Lloyd-Hughes (born 14 April 1988) is a British actor. He is known for portraying Josh Stock in the British series Skins (2007) and for his role as Will in the film Divergent (2014). He plays Tsar Alexander in the 2016 BBC television series War & Peace, and Greg in the 2020 series Industry."
+    }
+  },
+  {
+    "pk": 760,
+    "model": "core.person",
+    "fields": {
+      "name": "Samantha Bond",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/apo13y77RnKUWTjY1FsW1DcQdkY.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1961-11-27",
+      "death_date": null,
+      "age": 61,
+      "birth_place": "Kensington, London, England, UK",
+      "biography": "Samantha Bond (born 27 November 1961) is an English actress, perhaps best known for playing Miss Moneypenny in four James Bond films during the series' Pierce Brosnan years, and for her role on Downton Abbey as the wealthy widow Lady Rosamund Painswick, sister of Robert Crawley, the Earl of Grantham. She is also well-known for originating the role of \"Miz Liz\" Probert in the Rumpole of the Bailey series. Bond is a member of the Royal Shakespeare Company.\nDescription above from the Wikipedia article Samantha Bond, licensed under CC-BY-SA, full list of contributors on Wikipedia."
+    }
+  },
+  {
+    "pk": 761,
+    "model": "core.person",
+    "fields": {
+      "name": "Joseph Marcell",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mbjY5qqeT9aV7weLzvbN1ikPq0M.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1948-08-18",
+      "death_date": null,
+      "age": 74,
+      "birth_place": "Saint Lucia, West Indies",
+      "biography": "Joseph Marcell (18 de agosto de 1948) es un actor brit\u00e1nico, m\u00e1s conocido por su papel del mayordomo Geoffrey en la comedia televisiva El Pr\u00edncipe de Bel-Air, donde particip\u00f3 en las seis temporadas que se mantuvo el show al aire (1990-1996)."
+    }
+  },
+  {
+    "pk": 762,
+    "model": "core.person",
+    "fields": {
+      "name": "Nina Wadia",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/93UyOjCRBdVj2VwNp0JsNXlqLJU.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1968-12-18",
+      "death_date": null,
+      "age": 54,
+      "birth_place": "Bombay, Maharashtra, India",
+      "biography": null
+    }
+  },
+  {
+    "pk": 763,
+    "model": "core.person",
+    "fields": {
+      "name": "Andi Osho",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/z5m18lhx3uJXfxycSzKGdoGeswv.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1973-01-27",
+      "death_date": null,
+      "age": 50,
+      "birth_place": "Plaistow, London, England, UK",
+      "biography": null
+    }
+  },
+  {
+    "pk": 764,
+    "model": "core.person",
+    "fields": {
+      "name": "Bart Edwards",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cjiHNJ8zr2mepLBasxsYqGFBf8e.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "Guildford, Surrey, England, UK",
+      "biography": "Bart Edwards was born in 1989 in Guildford, Surrey, England. He is an actor, known for The Witcher (2019), UnREAL (2015) and Lykkeland (2018)."
+    }
+  },
+  {
+    "pk": 765,
+    "model": "core.person",
+    "fields": {
+      "name": "Paul Casar",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xmrDitgVuTSS55jI3fkc5qTgqwy.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 766,
+    "model": "core.person",
+    "fields": {
+      "name": "Terri Dwyer",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/miv3drfTZt1e6oDbP2FH1ZSXtdg.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "Leicester, Leicestershire, England, UK",
+      "biography": "Terri Dwyer is an actress on both the small and big screens with nearly 20 years experience. Her first job was in the long running soap opera Hollyoaks where she played one of the lead roles for 6yrs.\nAfter leaving Hollyoaks Terri had a hugely successful presenting career on shows like Loose Women (ITV1) 60 Minute Makeover (ITV1) and This Morning (ITV1) to name a few. Terri has since established herself as a diverse theatre actress with hugely successful number one tours among her credits.\nHer film credits vary from supporting character roles to the leading lady in features. Her vast contribution to the industry has recently seen Terri move into producing. All of which contribute to making Terri a very versatile actress."
+    }
+  },
+  {
+    "pk": 67,
+    "model": "core.film",
+    "fields": {
+      "title": "Un extra\u00f1o en nuestra cama",
+      "original_title": "The Stranger in Our Bed",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": "$90.00",
+      "income": null,
+      "year": "2022-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lCQPZBBAg3gw43nFpZOQJjQyWEv.jpg",
+      "certification": "15",
+      "overview": "Una mujer felizmente casada deja a su marido por un amante que desaparece misteriosamente.",
+      "category": [
+        13,
+        12
+      ],
+      "duration": "1h 30m",
+      "score": "63%",
+      "director": [
+        757
+      ],
+      "characters": [],
+      "screenplay": [
+        756
+      ],
+      "story": [],
+      "novel": [
+        756
+      ],
+      "writer": [],
+      "cast": [
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766
+      ]
+    }
+  },
+  {
+    "pk": 767,
+    "model": "core.person",
+    "fields": {
+      "name": "Frank Perozo",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 768,
+    "model": "core.person",
+    "fields": {
+      "name": "Junior Rosario",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 769,
+    "model": "core.person",
+    "fields": {
+      "name": "Kendy Yanoreth",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Producci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 770,
+    "model": "core.person",
+    "fields": {
+      "name": "Raymond Pozo",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3POP2vE0HqRDtYWjBjUfFGc4yhC.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1969-08-08",
+      "death_date": null,
+      "age": 53,
+      "birth_place": "San Crist\u00f3bal, Rep\u00fablica Dominicana",
+      "biography": "Ram\u00f3n Figueroa Pozo, m\u00e1s conocido como Raymond Pozo, es un comediante, presentador de televisi\u00f3n y actor dominicano. Tambi\u00e9n es conocido como \"El rey de los trabalenguas"
+    }
+  },
+  {
+    "pk": 771,
+    "model": "core.person",
+    "fields": {
+      "name": "Pepe Sierra",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 772,
+    "model": "core.person",
+    "fields": {
+      "name": "Miguel C\u00e9spedes",
+      "photo": null,
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 773,
+    "model": "core.person",
+    "fields": {
+      "name": "Carolyn Aquino",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 68,
+    "model": "core.film",
+    "fields": {
+      "title": "La Trampa",
+      "original_title": "La Trampa",
+      "state": "Estrenada",
+      "original_language": "Espa\u00f1ol; Castellano",
+      "budget": null,
+      "income": null,
+      "year": "2022-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nXhPTEIEDxekCZg9DwZQNshZ432.jpg",
+      "certification": null,
+      "overview": "T\u00edo y sobrino intentan recuperar sus tierras de manos del due\u00f1o de un casino corrupto. Un granjero es presionado para pagar la enorme deuda de su hijo jugador. Ambos problemas tienen la misma fuente y se unir\u00e1n.",
+      "category": [
+        6,
+        0
+      ],
+      "duration": null,
+      "score": "66%",
+      "director": [
+        767
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        768,
+        769
+      ],
+      "cast": [
+        770,
+        771,
+        772,
+        773
+      ]
+    }
+  },
+  {
+    "pk": 774,
+    "model": "core.person",
+    "fields": {
+      "name": "John Hyams",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7NosT6z5tAM0HlujmIyLpKJckAy.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": "1964-12-19",
+      "death_date": null,
+      "age": 58,
+      "birth_place": "United States of America",
+      "biography": "John Hyams (born December 19, 1964) is an American screenwriter, director and cinematographer, best known for his involvement in the \"Universal Soldier\" series, for which he has directed two installments. Hyams is the son of director Peter Hyams.\nHyams graduated from Syracuse University School of Visual and Performing Arts, becoming a noted painter and sculptor exhibiting and selling work in New York and Los Angeles. He became known in Hollywood in 1997 after writing, producing, and directing the critically acclaimed \"One Dog Day.\" The film debuted at the Taos Talking Picture Film Festival. After that, Hyams directed several documentaries, most notably \"The Smashing Machine\" (2002), which follows the life of fighter Mark Kerr. Hyams also directed several episodes of ABC Television's \"NYPD Blue.\""
+    }
+  },
+  {
+    "pk": 775,
+    "model": "core.person",
+    "fields": {
+      "name": "Katelyn Crabb",
+      "photo": null,
+      "gender": "F",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "USA",
+      "biography": null
+    }
+  },
+  {
+    "pk": 776,
+    "model": "core.person",
+    "fields": {
+      "name": "Gideon Adlon",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l8BSlg87Mn75n28P2aXzot6G0pi.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1997-03-30",
+      "death_date": null,
+      "age": 26,
+      "birth_place": "Los Angeles, USA",
+      "biography": "Gideon Adlon is an American actress. She is best known for her starring roles in the comedy film Blockers, the drama film The Mustang, and the horror film The Craft: Legacy. Adlon also starred in the Netflix drama series The Society."
+    }
+  },
+  {
+    "pk": 777,
+    "model": "core.person",
+    "fields": {
+      "name": "Bethlehem Million",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wlOtzlBIxdM9FmyYvvjbYmaMs1a.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 778,
+    "model": "core.person",
+    "fields": {
+      "name": "Dylan Sprayberry",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aQvC4qmW6z4mJj5Fxb5ar1MNsyD.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1998-07-07",
+      "death_date": null,
+      "age": 24,
+      "birth_place": "Houston, Texas, USA",
+      "biography": "Dylan Sprayberry (6 de julio de 1998) es un actor estadounidense conocido por interpretar al joven Clark Kent en la pel\u00edcula de 2013 El hombre de acero y una versi\u00f3n joven del hermano de Blaine, Cooper Anderson, en la serie de FOX Glee. De 2014 a 2017 interpret\u00f3 a Liam Dunbar en la serie de MTV Teen Wolf."
+    }
+  },
+  {
+    "pk": 779,
+    "model": "core.person",
+    "fields": {
+      "name": "Marc Menchaca",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fL0LmdBwau30M4AFPVJrpLRXXsU.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1975-10-10",
+      "death_date": null,
+      "age": 47,
+      "birth_place": "San Angelo, Texas, USA",
+      "biography": null
+    }
+  },
+  {
+    "pk": 780,
+    "model": "core.person",
+    "fields": {
+      "name": "Jane Adams",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1965-04-01",
+      "death_date": null,
+      "age": 58,
+      "birth_place": "Washington, D.C., United States",
+      "biography": "Jane Adams is an American actress. She made her Broadway debut in the original production of I Hate Hamlet in 1991, and won the Tony Award for Best Featured Actress in a Play for the 1994 revival of An Inspector Calls. Her film roles include Happiness (1998), Wonder Boys (2000), Eternal Sunshine of the Spotless Mind (2004), and Little Children (2006). She also had a recurring role on the NBC sitcom Frasier (1999\u20132000), and was nominated for the 2010 Golden Globe Award for Best Supporting Actress on Television for the HBO series Hung (2009\u201311)."
+    }
+  },
+  {
+    "pk": 781,
+    "model": "core.person",
+    "fields": {
+      "name": "Joel Courtney",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lCy7WS7rNPrvkLeIF8V3KAYDpFK.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1996-01-31",
+      "death_date": null,
+      "age": 27,
+      "birth_place": "Monterey, California, USA",
+      "biography": "Joel Courtney (born January 31, 1996) is an American actor known for his role in the 2011 film Super 8 and for his starring role in Netflix's The Kissing Booth film series."
+    }
+  },
+  {
+    "pk": 782,
+    "model": "core.person",
+    "fields": {
+      "name": "Chris Reid",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yvo81AU4zUKbcNtWEQjaSTvLTPS.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 783,
+    "model": "core.person",
+    "fields": {
+      "name": "Duane Stephens",
+      "photo": null,
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 784,
+    "model": "core.person",
+    "fields": {
+      "name": "Logan Murphy",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 69,
+    "model": "core.film",
+    "fields": {
+      "title": "Sick",
+      "original_title": "Sick",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": null,
+      "income": null,
+      "year": "2022-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nBgxSimgLMGYCQckRQw7C2f7row.jpg",
+      "certification": "R",
+      "overview": "Durante la pandemia, Parker y su mejor amigo deciden realizar la cuarentena en la casa familiar del lago donde estar\u00e1n aislados del mundo\u2026 o al menos eso es lo que piensan.",
+      "category": [
+        11,
+        13
+      ],
+      "duration": "1h 23m",
+      "score": "63%",
+      "director": [
+        774
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        775,
+        82
+      ],
+      "cast": [
+        776,
+        777,
+        778,
+        779,
+        780,
+        781,
+        782,
+        783,
+        784
+      ]
+    }
+  },
+  {
+    "pk": 15,
+    "model": "core.category",
+    "fields": {
+      "name": "Documental",
+      "description": null
+    }
+  },
+  {
+    "pk": 785,
+    "model": "core.person",
+    "fields": {
+      "name": "Suzanne Hillinger",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pxYaB8D2xbkzXDZyAWKhdIpephN.jpg",
+      "gender": "F",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 786,
+    "model": "core.person",
+    "fields": {
+      "name": "Noelle Perdue",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 787,
+    "model": "core.person",
+    "fields": {
+      "name": "Mike Stabile",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 788,
+    "model": "core.person",
+    "fields": {
+      "name": "Siri",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/l1EGBG7Esbfvp2k4vfbzvfWm4A.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1988-06-20",
+      "death_date": null,
+      "age": 34,
+      "birth_place": "Minneapolis, Minnesota, USA",
+      "biography": "Siri, short for Sigrid, is from Minneapolis, Minnesota. Her heritage is Swedish. Siri is married and lives in Los Angeles, California. She started in the adult film industry in February 2012. She also does a webcam show and a blog."
+    }
+  },
+  {
+    "pk": 789,
+    "model": "core.person",
+    "fields": {
+      "name": "Wolf Hudson",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oCcDUrYE10MnpNNprPFF6NJkheV.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1984-11-24",
+      "death_date": null,
+      "age": 38,
+      "birth_place": "New York City, New York, USA",
+      "biography": "Gay for pay porn star Wolf Hudson was born in November 1984 in New York of black, French and Dominican ancestry - and in his career he's made straight, bisexual  and gay pornos, sometimes with a bondage theme (he says he enjoys being sexually dominated). Before his porn career, Wolf studied acting and dance at the New Dance Group Arts Center in New York. His gay porn career really took off in 2007 and since then he's worked with the likes of Chi Chi LaRue's Channel 1, the Falcon family and Lucas Entertainment. He stands over 6ft tall, has hazel eyes and brown hair - when he's not shaved it off. Wolf got into straight porn initially - answering an ad for performers needed for a gang bang scene. In gay porn he tops but also gets fucked, even though he says he's straight. His cock is an impressive 9 inches uncut."
+    }
+  },
+  {
+    "pk": 790,
+    "model": "core.person",
+    "fields": {
+      "name": "Martin Patriquin",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 791,
+    "model": "core.person",
+    "fields": {
+      "name": "Bree Mills",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ql5DBazbVozMqktpcFv7aby2I0F.jpg",
+      "gender": "F",
+      "principal_role": "Producci\u00f3n",
+      "birth_date": "1981-07-15",
+      "death_date": null,
+      "age": 41,
+      "birth_place": "Boston, Massachusetts, USA",
+      "biography": "Boston-born Bree Mills is a prolific writer, producer and director who grew up in Canada. Bree who's always been fond of vintage erotica made a name for herself first in the lesbian film market when she created many acclaimed features for Girlsway Network, a lesbian-centered production company and subsidiary of Gamma Entertainment where Mills is the head of production. Following the success she gained with long-time co-director Stills By Alan, Bree created Pure Taboo, a new venture and Gamma Films label spearheaded with her creative partner Craven Moorehead where she can explore and create in the rising popular \"taboo\" genre. What started as an erotic vision of Law & Order quickly became a success too, even attracting famous model Lena Paul and rising starlet Kristen Scott who both wrote and starred in their own dark erotic thriller."
+    }
+  },
+  {
+    "pk": 792,
+    "model": "core.person",
+    "fields": {
+      "name": "Cherie DeVille",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1Z0p3l5xKL3lhLIsiisfTHsMgae.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1978-08-30",
+      "death_date": null,
+      "age": 44,
+      "birth_place": "North Carolina, USA",
+      "biography": "Cherie DeVille (30 de agosto de 1978) es una actriz pornogr\u00e1fica y modelo er\u00f3tica estadounidense."
+    }
+  },
+  {
+    "pk": 793,
+    "model": "core.person",
+    "fields": {
+      "name": "Asa Akira",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iIPMduzcgzJMw4AV9CpPnaJnauG.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1986-01-03",
+      "death_date": null,
+      "age": 37,
+      "birth_place": "Tokyo, Japan",
+      "biography": "Small (just under 5'2\", 1.57m and 48kg) but buxom (32c) and shapely brunette Asa Akira was born Asa Takigami on January 2, 1986, in Tokyo, Japan. She lived in Japan between the ages of six and 13. Asa attended Washington Irving High School in New York City from 2001-02 and graduated high school in 2004. She was a regular on the radio show \"Bubba the Love Sponge\" for about a year. Asa got her star as a dominatrix before getting into stripping, modeling and porn."
+    }
+  },
+  {
+    "pk": 794,
+    "model": "core.person",
+    "fields": {
+      "name": "Natassia Dreams",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9JCAswM1Rm3SDlrSxqo2z9hiEnm.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-08-31",
+      "death_date": null,
+      "age": 37,
+      "birth_place": "San Diego, California, USA",
+      "biography": "Natassia Dreams is a Transsexual Adult Performer from United States. She was born in San Diego, California on August 31, 1985. Natassia has brown eyes and black/brown hair. She is 175 cm tall and weighs 61 kg. Her measurements are 34D-24-36."
+    }
+  },
+  {
+    "pk": 70,
+    "model": "core.film",
+    "fields": {
+      "title": "Hasta el fondo: La historia de Pornhub",
+      "original_title": "Money Shot: The Pornhub Story",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uJldamB3Le1eELdjqaBd4APGU49.jpg",
+      "certification": "18",
+      "overview": "Pornhub, la plataforma de entretenimiento para adultos m\u00e1s famosa de internet, ha cambiado por completo el modo de crear y distribuir la pornograf\u00eda. As\u00ed, los creadores de contenido er\u00f3tico pudieron llegar a un p\u00fablico ampl\u00edsimo mientras la compa\u00f1\u00eda se hac\u00eda multimillonaria. Sin embargo, tambi\u00e9n la acusaron de fomentar el tr\u00e1fico sexual y de albergar material no consentido en su sitio web. Mientras las organizaciones que luchan contra el tr\u00e1fico sexual buscan justicia para las v\u00edctimas, \u00bfpodr\u00e1 proteger este gigante de internet a quienes le procuran beneficios o se trata de una nueva oleada de censura contra los actores adultos que hacen porno consentido?",
+      "category": [
+        15
+      ],
+      "duration": "1h 35m",
+      "score": "58%",
+      "director": [
+        785
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [],
+      "cast": [
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794
+      ]
+    }
+  },
+  {
+    "pk": 795,
+    "model": "core.person",
+    "fields": {
+      "name": "Dan Trachtenberg",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ce3rCLjSPyvq89D9kd2pyIlLny1.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": "1981-05-11",
+      "death_date": null,
+      "age": 41,
+      "birth_place": "Philadelphia, Pennsylvania, USA",
+      "biography": "Dan Trachtenberg (born May 11, 1981) is a filmmaker and podcaster.  He was formerly a host on The Totally Rad Show and Geekdrome, both of which were hosted on Revision3. He has also directed several commercials and public service announcements."
+    }
+  },
+  {
+    "pk": 796,
+    "model": "core.person",
+    "fields": {
+      "name": "Patrick Aison",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/A7WLg3GZlETTmrLng4ZzzwnvNqN.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "Patrick Aison is an American writer and producer who wrote the screenplay for the 2022 film Prey."
+    }
+  },
+  {
+    "pk": 797,
+    "model": "core.person",
+    "fields": {
+      "name": "John Thomas",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bQudeIF9IcQjGOhPbT7gWLH27zQ.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "From Wikipedia, the free encyclopedia.  \nJohn C. Thomas is an American screenwriter based in California. With his brother Jim Thomas, he wrote or was substantially involved in the screenplays of the following films: Predator (1987), Predator 2 (1990), Executive Decision (1996), Wild Wild West (1999), Mission to Mars (2000), and Behind Enemy Lines (2001).\nDescription above from the Wikipedia article John Thomas, licensed under CC-BY-SA, full list of contributors on Wikipedia."
+    }
+  },
+  {
+    "pk": 798,
+    "model": "core.person",
+    "fields": {
+      "name": "Jim Thomas",
+      "photo": null,
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "James E. \"Jim\" Thomas is a screenwriter based in California. With his brother John Thomas, he wrote or was substantially involved in the screenplays of the following films: Predator (1987), Predator 2 (1990), Executive Decision (1996), Wild Wild West (1999), Mission to Mars (2000), and Behind Enemy Lines (2001). He also used to be a math teacher at Metuchen High School.\nDescription above from the Wikipedia article Jim Thomas, licensed under CC-BY-SA, full list of contributors on Wikipedia."
+    }
+  },
+  {
+    "pk": 799,
+    "model": "core.person",
+    "fields": {
+      "name": "Amber Midthunder",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1997-04-26",
+      "death_date": null,
+      "age": 26,
+      "birth_place": "New Mexico, USA",
+      "biography": "Amber Midthunder es una actriz estadounidense. Es conocida por sus papeles regulares en la serie Legion de FX y la serie Roswell, New Mexico de The CW, as\u00ed como por sus apariciones en Longmire, Banshee y Reservation Dogs. Interpret\u00f3 a Naru en Prey, la quinta entrega de la franquicia Predator."
+    }
+  },
+  {
+    "pk": 800,
+    "model": "core.person",
+    "fields": {
+      "name": "Dakota Beavers",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1lIkcUUeTdGxGM0JOGw48VXA0WW.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "Arizona, USA",
+      "biography": null
+    }
+  },
+  {
+    "pk": 801,
+    "model": "core.person",
+    "fields": {
+      "name": "Michelle Thrush",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/32rSHv8HfSAMWWmGyyHZeIEhuvp.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1967-02-06",
+      "death_date": null,
+      "age": 56,
+      "birth_place": "Calgary, Alberta, Canada",
+      "biography": "Michelle Thrush is a Canadian actor and activist. Thrush is best known for her leading role as Gail Stonee in Blackstone for which she won the Gemini Award for Best Performance by an Actress in a Continuing Leading Dramatic Role in 2011, and her recurring roles as Sylvia LeBret in North of 60 and Deanna Martin in Arctic Air.\nThrush starred in the Palme d'Or and Cesar award nominated film Jimmy P: Psychotherapy of a Plains Indian."
+    }
+  },
+  {
+    "pk": 802,
+    "model": "core.person",
+    "fields": {
+      "name": "Stormee Kipp",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fW6B1HS5ixuziEGsWzSlz7MyLh7.jpg",
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 803,
+    "model": "core.person",
+    "fields": {
+      "name": "Julian Black Antelope",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/t5JzUhQAyWyXJolPdRfD8YRW2Ap.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "Julian Black Antelope is a Canadian actor and stunt performer of Irish and First nation\u2019s decent. He has also written, directed, produced or edited many independent short films and video documentaries."
+    }
+  },
+  {
+    "pk": 804,
+    "model": "core.person",
+    "fields": {
+      "name": "Dane DiLiegro",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dBaJs1QNTpYL3RIdBz8VN01mmDf.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1988-08-06",
+      "death_date": null,
+      "age": 34,
+      "birth_place": "Lexington, Massachusetts, USA",
+      "biography": "Dane DiLiegro (born August 6, 1988) is a professional basketball player turned actor."
+    }
+  },
+  {
+    "pk": 805,
+    "model": "core.person",
+    "fields": {
+      "name": "Stefany Mathias",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ziJ5fXAQVJ6X5y6vLpcmze1dyp.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1972-03-12",
+      "death_date": null,
+      "age": 51,
+      "birth_place": "North Vancouver, British Columbia, Canada",
+      "biography": "Stefany was born and raised in North Vancouver BC. She is the only daughter of Squamish Nation hereditary Chief Joe Mathias and Janice Antoine, the principal of the Coldwater School in Merritt, BC.\nHer love of the arts was ignited in her as a young child because her mom brought her to the theatre for children and her dad to see movies of all kinds. Not only did they both encourage her acting they also supported her love of singing, dance, and writing.\nStefany graduated from the University of British Columbia theatre program and continued in Theater until she was noticed by Chris Haddock who cast her in his acclaimed TV series \"DaVinci's Inquest,\" where she played a recurring role. She then went on to appear in \"Da Vinci City Hall\", \"The Collector\" and several independent feature-length and short films."
+    }
+  },
+  {
+    "pk": 806,
+    "model": "core.person",
+    "fields": {
+      "name": "Bennett Taylor",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/eYOy0t1Obo7X9J6KsAUmgOfp56o.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "Bennett Taylor is a film and television actor."
+    }
+  },
+  {
+    "pk": 807,
+    "model": "core.person",
+    "fields": {
+      "name": "Mike Paterson",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wFTojLov6QWbLNEWIgUVVVloyvz.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 71,
+    "model": "core.film",
+    "fields": {
+      "title": "Predator: La presa",
+      "original_title": "Prey",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": "$65,000,000.00",
+      "income": null,
+      "year": "2022-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg",
+      "certification": "16",
+      "overview": "Ambientada hace 300 a\u00f1os en la Naci\u00f3n Comanche. Naru es una joven guerrera, feroz y altamente h\u00e1bil, que se cri\u00f3 a la sombra de algunos de los cazadores m\u00e1s legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente. La presa a la que acecha y, en \u00faltima instancia, se enfrenta, resulta ser un depredador alien\u00edgena evolucionado con un arsenal t\u00e9cnicamente avanzado, lo que deriva en un enfrentamiento cruel y aterrador entre los dos adversarios.",
+      "category": [
+        13,
+        0,
+        2
+      ],
+      "duration": "1h 40m",
+      "score": "78%",
+      "director": [
+        795
+      ],
+      "characters": [
+        797,
+        798
+      ],
+      "screenplay": [
+        796
+      ],
+      "story": [
+        795,
+        796
+      ],
+      "novel": [],
+      "writer": [],
+      "cast": [
+        799,
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807
+      ]
+    }
+  },
+  {
+    "pk": 808,
+    "model": "core.person",
+    "fields": {
+      "name": "Jonatan Etzler",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wmzxOad88n2TlcQFDr8BDp18TIE.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 809,
+    "model": "core.person",
+    "fields": {
+      "name": "Sofie Forsman",
+      "photo": null,
+      "gender": "F",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 810,
+    "model": "core.person",
+    "fields": {
+      "name": "Tove Forsman",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 811,
+    "model": "core.person",
+    "fields": {
+      "name": "Hedda Stiernstedt",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/whCtZaS5OFX0sCjP3KsRoBTGs2S.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1987-12-03",
+      "death_date": null,
+      "age": 35,
+      "birth_place": "Stockholm, Sweden",
+      "biography": null
+    }
+  },
+  {
+    "pk": 812,
+    "model": "core.person",
+    "fields": {
+      "name": "Evelyn Mok",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2OCaMRBnRZWNiUdHa68Y5LOzEGU.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1987-11-29",
+      "death_date": null,
+      "age": 35,
+      "birth_place": "Mariestad, V\u00e4stra G\u00f6talands l\u00e4n, Sweden",
+      "biography": "Swedish comedian."
+    }
+  },
+  {
+    "pk": 813,
+    "model": "core.person",
+    "fields": {
+      "name": "Vanna Rosenberg",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9MRVpZpW8sGrEI4KYGkDrdFLTs4.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1973-04-03",
+      "death_date": null,
+      "age": 50,
+      "birth_place": "Farsta, Stockholm, Stockholms l\u00e4n, Sweden",
+      "biography": "Rosenberg b\u00f6rjade med teater i liten skala redan p\u00e5 dagis. Hennes mamma jobbade som dramapedagog och hela dagiset fick vara med i barnprogrammet Du m\u00e5ste f\u00f6rst\u00e5 att jag \u00e4lskar Fantomen som s\u00e4ndes julen 1981. Rosenberg var ocks\u00e5 med i V\u00e5r teater i H\u00f6gdalen.[1] P\u00e5 gymnasiet gick hon 3-\u00e5rig samh\u00e4llsvetenskaplig linje med estetisk inriktning. Hon hade ocks\u00e5 en mindre roll i l\u00e5ngfilmen Agnes Cecilia fr\u00e5n 1991. Rosenberg var medlem i dansmusikgruppen AdAstra d\u00e4r hon och hennes klasskamrat fr\u00e5n gymnasiet, \u00c5sa Schmalenbach, var s\u00e5ngerskor, tillsammans med Bengt Girell Jr och Kim Henry Bergstr\u00f6m. Gruppen sl\u00e4ppte sitt debutalbum h\u00f6sten 1994 och gjorde en kort Sverigeturn\u00e9.[2][3] Efter\u00e5t har Rosenberg f\u00f6rklarat att det inte alls var hennes grej att sjunga i ett band.[4] H\u00f6sten 1994 fick hon ocks\u00e5 stor uppm\u00e4rksamhet f\u00f6r sin roll som Sonja, den glada \u00e4garen till glassbaren, i Ulf Malmros TV-serie Rapport till himlen. H\u00f6sten 1994 spelade hon dessutom in l\u00e5ngfilmen En p\u00e5 miljonen."
+    }
+  },
+  {
+    "pk": 814,
+    "model": "core.person",
+    "fields": {
+      "name": "Tove Edfeldt",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7sCHHq1hV9zcMoYaGRy9lNgmEBs.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1983-11-24",
+      "death_date": null,
+      "age": 39,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 815,
+    "model": "core.person",
+    "fields": {
+      "name": "Miriam Ingrid",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 816,
+    "model": "core.person",
+    "fields": {
+      "name": "David Tainton",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 817,
+    "model": "core.person",
+    "fields": {
+      "name": "Ahmed Berhan",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5ypzKFe7v3q1O4nG2F24vRkVoYH.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-01-24",
+      "death_date": null,
+      "age": 38,
+      "birth_place": "Stockholm, Sweden",
+      "biography": "Swedish stand-up comedian and actor."
+    }
+  },
+  {
+    "pk": 818,
+    "model": "core.person",
+    "fields": {
+      "name": "Lo Kauppi",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ybeycz7XYUwlHQZqrCfkcEShCmM.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1970-04-19",
+      "death_date": null,
+      "age": 53,
+      "birth_place": "Sk\u00e4rholmen, Stockholm, Stockholms l\u00e4n, Sweden",
+      "biography": null
+    }
+  },
+  {
+    "pk": 819,
+    "model": "core.person",
+    "fields": {
+      "name": "Mira Eklund",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/eehGwn2ftfK8Onrja5Rwo47SqnW.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1981-10-13",
+      "death_date": null,
+      "age": 41,
+      "birth_place": "Stockholm, Sweden",
+      "biography": "Eva Mira Helena Eklund is a Swedish stage and screen actress, musician, singer/songwriter, artist and sound designer."
+    }
+  },
+  {
+    "pk": 72,
+    "model": "core.film",
+    "fields": {
+      "title": "Dieciocho otra vez",
+      "original_title": "One More Time",
+      "state": "Estrenada",
+      "original_language": "Sueco",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/t1TQbQMGyPQxTwZ8HqqNTdtcjOe.jpg",
+      "certification": "R",
+      "overview": "Amelia hace un fat\u00eddico deseo en su 40 cumplea\u00f1os: volver a cumplir 18 como en 2002. Pero no tarda en arrepentirse tras empezar a revivir ese d\u00eda... en bucle.",
+      "category": [
+        6,
+        8
+      ],
+      "duration": "1h 25m",
+      "score": "61%",
+      "director": [
+        808
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        809,
+        810
+      ],
+      "cast": [
+        811,
+        812,
+        813,
+        814,
+        815,
+        816,
+        817,
+        818,
+        819
+      ]
+    }
+  },
+  {
+    "pk": 820,
+    "model": "core.person",
+    "fields": {
+      "name": "Steve Ditko",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/liZhKuugdqrSCYMzggzyhYRbfou.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": "1927-11-02",
+      "death_date": "2018-06-29",
+      "age": 90,
+      "birth_place": "Johnstown, Pennsylvania, USA",
+      "biography": "Stephen John Ditko (November 2, 1927 \u2013 June 29, 2018) was an American comics artist and writer best known for being co-creator of Marvel superhero Spider-Man and creator of Doctor Strange. He also made notable contributions to the character of Iron Man with the character's iconic red and yellow design being revolutionized by Ditko."
+    }
+  },
+  {
+    "pk": 821,
+    "model": "core.person",
+    "fields": {
+      "name": "Jon Watts",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fkXChMX6CUXY1yOxBehAzvaTCl7.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": "1981-06-28",
+      "death_date": null,
+      "age": 41,
+      "birth_place": "Fountain, Colorado, United States",
+      "biography": "Jonathan \"Jon\" Watts (born June 28, 1981) is an American film director, producer and screenwriter. He is best known for directing the Spider-Man MCU trilogy starring Tom Holland. Watts was born and raised in Fountain, Colorado. He studied film at New York University. Before directing movies, he directed commercials for production company Park Pictures."
+    }
+  },
+  {
+    "pk": 822,
+    "model": "core.person",
+    "fields": {
+      "name": "Tom Holland",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2bXKtSlrJyzpXs7gTOiCnQJBCBp.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1996-06-01",
+      "death_date": null,
+      "age": 26,
+      "birth_place": "Surrey, England, UK",
+      "biography": "Thomas Stanley Holland es un actor y bailar\u00edn brit\u00e1nico, conocido por interpretar a Lucas Bennett en la pel\u00edcula Lo imposible (2012), a Thomas Nickerson en En el coraz\u00f3n del mar (2015) y Peter Parker/Spider-Man en las pel\u00edculas del Universo cinematogr\u00e1fico de Marvel."
+    }
+  },
+  {
+    "pk": 823,
+    "model": "core.person",
+    "fields": {
+      "name": "Zendaya",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6TE2AlOUqcrs7CyJiWYgodmee1r.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1996-09-01",
+      "death_date": null,
+      "age": 26,
+      "birth_place": "Oakland, California, USA",
+      "biography": "Zendaya Maree Stoermer Coleman (1 de septiembre de 1996)3, m\u00e1s conocida como Zendaya, es una actriz y cantante estadounidense. Comenz\u00f3 su carrera apareciendo como una modelo infantil y bailarina, antes de ganar reconocimiento por su papel como Rocky Blue en la serie de Disney Channel Shake It Up (2010\u201313). En 2013, Zendaya particip\u00f3 en la decimosexta temporada del concurso Dancing with the Stars. De 2015 a 2018, produjo y encarn\u00f3 el rol de KC Cooper en la sitcom de Disney Channel K.C. Undercover. Hizo su gran avance cinematogr\u00e1fico en 2017 y 2019, interpretando a Michelle \u00abMJ\u00bb Jones en las pel\u00edculas Spider-Man: Homecoming y Spider-Man: Lejos de casa del Universo Cinematogr\u00e1fico de Marvel. Tambi\u00e9n interpret\u00f3 a Anne Wheeler en la pel\u00edcula de drama musical El gran showman."
+    }
+  },
+  {
+    "pk": 824,
+    "model": "core.person",
+    "fields": {
+      "name": "Benedict Cumberbatch",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fBEucxECxGLKVHBznO0qHtCGiMO.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1976-07-19",
+      "death_date": null,
+      "age": 46,
+      "birth_place": "London, England, UK",
+      "biography": "Benedict Timothy Carlton Cumberbatch (19 de julio de 1976) es un actor ingl\u00e9s de cine, televisi\u00f3n y teatro. Sus papeles m\u00e1s aclamados incluyen: Stephen Hawking en el drama de la BBC \u00abHawking\u00bb (2004); William Pitt en la pel\u00edcula hist\u00f3rica \u00abAmazing Grace\u00bb (2006); Stephen Ezard en el thriller de miniserie \u00abThe Last Enemy\u00bb (2008); Paul Marshall en \u00abExpiaci\u00f3n\u00bb (2007); Bernard en \u00abSmall Island\u00bb (2009); Sherlock Holmes en la moderna serie de adaptaci\u00f3n de la BBC \u00abSherlock\u00bb (2010) y Stephen Strange en \u00abDoctor Strange\u00bb (2016).\nEs hijo de los actores Timothy Carlton (Timothy Carlton Congdon Cumberbatch) y Wanda Ventham."
+    }
+  },
+  {
+    "pk": 825,
+    "model": "core.person",
+    "fields": {
+      "name": "Jacob Batalon",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1996-06-06",
+      "death_date": null,
+      "age": 26,
+      "birth_place": "Honolulu, Hawaii, USA",
+      "biography": "Jacob Batalon (9 de octubre de 1996)1 es un actor estadounidense. Hizo su debut como actor en 2016 en la pel\u00edcula North Woods como Cooper; en 2017 forma parte del elenco principal de la pel\u00edcula Spider-Man: Homecoming, en el papel de Ned Leeds.\nEs conocido por interpretar a Ned Leeds en las pel\u00edculas del Universo cinematogr\u00e1fico de Marvel Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019) y Spider-Man: Far From Home (2019)."
+    }
+  },
+  {
+    "pk": 826,
+    "model": "core.person",
+    "fields": {
+      "name": "Jon Favreau",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1966-10-19",
+      "death_date": null,
+      "age": 56,
+      "birth_place": "Queens, New York, USA",
+      "biography": "Jonathan Kolia \u00abJon\u00bb Favreau (19 de octubre de 1966) es un director, actor, guionista y productor de cine estadounidense."
+    }
+  },
+  {
+    "pk": 827,
+    "model": "core.person",
+    "fields": {
+      "name": "Jamie Foxx",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1967-12-13",
+      "death_date": null,
+      "age": 55,
+      "birth_place": "Terrell, Texas, USA",
+      "biography": "Eric Marlon Bishop (nacido el 13 de diciembre de 1967), conocido profesionalmente como Jamie Foxx, es un actor, cantante, compositor, comediante y presentador de radio estadounidense. Como actor, su trabajo en la pel\u00edcula Ray le vali\u00f3 el Premio de la Academia y el Premio BAFTA al Mejor Actor, as\u00ed como el Premio Globo de Oro al Mejor Actor en un musical / comedia. Tambi\u00e9n es un m\u00fasico ganador del Premio Grammy, produciendo dos \u00e1lbumes que han tenido una gran calificaci\u00f3n en el Billboard 200: Unpredictable, que encabez\u00f3 la lista, e Intuition.\nFoxx fue abandonado siete meses despu\u00e9s del nacimiento, y posteriormente fue adoptado y criado en Terrell por los padres adoptivos de su madre, Estelle y Mark Talley. Foxx tuvo una estricta educaci\u00f3n bautista y comenz\u00f3 las clases de piano a la edad de cinco a\u00f1os por orden de su abuela. A menudo ha reconocido la influencia de su abuela en su vida como una de las principales razones de su \u00e9xito. Cuando descubri\u00f3 que las comediantes sol\u00edan ser llamadas primero para actuar, cambi\u00f3 su nombre a Jamie Foxx, sintiendo que era un nombre lo suficientemente ambiguo como para no permitir sesgos. Eligi\u00f3 su apellido como homenaje al comediante Redd Foxx."
+    }
+  },
+  {
+    "pk": 828,
+    "model": "core.person",
+    "fields": {
+      "name": "Willem Dafoe",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1955-07-22",
+      "death_date": null,
+      "age": 67,
+      "birth_place": "Appleton, Wisconsin, USA",
+      "biography": "William James \u00abWillem\u00bb Dafoe (22 de julio de 1955) es un actor estadounidense de cine y teatro, coproductor y miembro fundador de la compa\u00f1\u00eda teatral The Wooster Group.\nNominado al premio Oscar una vez como mejor actor y en tres ocasiones como mejor actor de reparto. Ha tenido papeles en pel\u00edculas como To Live and Die in L.A., Platoon, Nacido el 4 de julio, La \u00faltima tentaci\u00f3n de Cristo, Mississippi Burning, Wild at Heart, The Boondock Saints, El paciente ingl\u00e9s, Inside Man, The Life Aquatic with Steve Zissou, Spider-Man, El aviador, American Psycho, Anticristo y le prest\u00f3 su voz a personajes de Fantastic Mr. Fox, Buscando a Nemo y a Nathan Dawkins en el videojuego Beyond: Two Souls; en este \u00faltimo tambi\u00e9n se utiliz\u00f3 su rostro para la caracterizaci\u00f3n del personaje."
+    }
+  },
+  {
+    "pk": 829,
+    "model": "core.person",
+    "fields": {
+      "name": "Alfred Molina",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1953-05-24",
+      "death_date": null,
+      "age": 69,
+      "birth_place": "London, England, UK",
+      "biography": "Alfred Molina (24 de mayo de 1953) es un actor ingl\u00e9s, es mayormente conocido por su papel del Doctor Octopus en la pel\u00edcula de 2004 Spider-Man 2. Tambi\u00e9n ha participado en otras pel\u00edculas como El c\u00f3digo Da Vinci, The Pink Panther 2, El Aprendiz de Brujo, Prince of Persia, Frida entre otras. Tambi\u00e9n hizo acto de presencia en la serie Law & Order: Los Angeles bajo el papel de Ricardo Morales."
+    }
+  },
+  {
+    "pk": 830,
+    "model": "core.person",
+    "fields": {
+      "name": "Benedict Wong",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ukmfsl59Isvn9odgzMWBidA3cmt.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1971-06-03",
+      "death_date": null,
+      "age": 51,
+      "birth_place": "Eccles, Salford, Greater Manchester, England, UK",
+      "biography": "Benedict Wong (3 de junio de 1971) es un actor brit\u00e1nico conocido por interpretar a Kublai Khan en la serie de Netflix Marco Polo (2014), a Bruce Ng en The Martian (2015) y a Wong en la adaptaci\u00f3n cinematogr\u00e1fica de Doctor Strange (2016) de Marvel. Wong no s\u00f3lo ha tenido una ilustre carrera en el cine y la televisi\u00f3n, sino tambi\u00e9n en teatro."
+    }
+  },
+  {
+    "pk": 73,
+    "model": "core.film",
+    "fields": {
+      "title": "Spider-Man: No Way Home",
+      "original_title": "Spider-Man: No Way Home",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": "$200,000,000.00",
+      "income": "$1,921,847,111.00",
+      "year": "2021-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wngeV2SQk9UllOqZLaBbq16wpy5.jpg",
+      "certification": "12",
+      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un s\u00faper h\u00e9roe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser a\u00fan m\u00e1s peligrosos, oblig\u00e1ndole a descubrir lo que realmente significa ser Spider-Man.",
+      "category": [
+        0,
+        1,
+        2
+      ],
+      "duration": "2h 28m",
+      "score": "80%",
+      "director": [
+        821
+      ],
+      "characters": [
+        3,
+        820
+      ],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        70,
+        71
+      ],
+      "cast": [
+        822,
+        823,
+        824,
+        825,
+        826,
+        827,
+        828,
+        829,
+        830
+      ]
+    }
+  },
+  {
+    "pk": 831,
+    "model": "core.person",
+    "fields": {
+      "name": "Jack Epps Jr.",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/m9fplJY4ZIyRtWzYjc5iD3xseNH.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 832,
+    "model": "core.person",
+    "fields": {
+      "name": "Jim Cash",
+      "photo": null,
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": "1941-01-17",
+      "death_date": "2000-05-25",
+      "age": 59,
+      "birth_place": "Boyne City, Michigan, USA",
+      "biography": "Jim Cash  (17 January 1941 \u2013 25 March 2000) was a film writer, noted for writing such 1980s films such as Top Gun and The Secret of My Success. He was born in Boyne City, Michigan, and later lived in Grand Rapids. He received a B.A. in English from Michigan State University (MSU) in 1970, followed by an M.A. in Television and Radio in 1972; he also taught writing and film history.\nDescription above from the Wikipedia article Jim Cash, licensed under CC-BY-SA, full list of contributors on Wikipedia"
+    }
+  },
+  {
+    "pk": 833,
+    "model": "core.person",
+    "fields": {
+      "name": "Joseph Kosinski",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oWLUXWY0j8TYzwnf2wETYWO181S.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": "1974-05-03",
+      "death_date": null,
+      "age": 49,
+      "birth_place": "USA",
+      "biography": "Joseph Kosinski (born May 3, 1974) is an American film director best known for the science-fiction films \"Tron: Legacy\" (2010) and \"Oblivion\" (2013), the drama-thriller \"Only the Brave\" (2017), and the action-thriller \"Top Gun: Maverick\" (2022). His previous work has primarily been in the field of CGI television commercials, most notably his 2007 commercials for the video games \"Halo 3\" and \"Gears of War\"."
+    }
+  },
+  {
+    "pk": 834,
+    "model": "core.person",
+    "fields": {
+      "name": "Christopher McQuarrie",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/82W339V8turXUdaCajqOyekxhmD.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": "1968-10-25",
+      "death_date": null,
+      "age": 54,
+      "birth_place": "Princeton Junction, New Jersey, USA",
+      "biography": "Christopher McQuarrie is an American screenwriter, producer and director. His screenplays include The Usual Suspects, for which he won the 1996 Academy Award, The Way of the Gun and Valkyrie. He is the creator of NBC television series Persons Unknown."
+    }
+  },
+  {
+    "pk": 835,
+    "model": "core.person",
+    "fields": {
+      "name": "Eric Warren Singer",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/b5ygQ7u1RBZQaNN88W2ZiTBiKNV.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": "1968-08-01",
+      "death_date": null,
+      "age": 54,
+      "birth_place": "United States",
+      "biography": null
+    }
+  },
+  {
+    "pk": 836,
+    "model": "core.person",
+    "fields": {
+      "name": "Ehren Kruger",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jGwR9TRGhV9Fpw8cQrSN5FGQd9W.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": "1972-10-05",
+      "death_date": null,
+      "age": 50,
+      "birth_place": "Alexandria, Virginia, U.S.",
+      "biography": "From Wikipedia, the free encyclopedia\nEhren Kruger (born 5 October 1972) is an American screenwriter and film producer.\nDescription above from the Wikipedia article Ehren Kruger, licensed under CC-BY-SA, full list of contributors on Wikipedia."
+    }
+  },
+  {
+    "pk": 837,
+    "model": "core.person",
+    "fields": {
+      "name": "Justin Marks",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dwUvMbNyljjafUzANkFWE64BNCu.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "Justin Marks is an American screenwriter, producer and television showrunner. He is best known for writing Disney's live-action remake of The Jungle Book, co-writing Top Gun: Maverick, and for creating and showrunning the Starz espionage thriller Counterpart.\nOne of the first scripts he penned was Street Fighter: The Legend of Chun Li for 20th Century Fox. A year prior, he had written a script for a potential He-Man film. Initially entitled Grayskull: The Masters of The Universe, the script was praised by fans yet was never used since the script was rewritten, with the film still being in development hell.\nIn July 2013, Marks was hired by Disney to write a live-action adaptation of The Jungle Book. Jon Favreau came on board as director, and the film was released in April 2016. In June 2015, it was revealed that Marks was working on the screenplay for a sequel to the 1986 film Top Gun. The film, titled Top Gun: Maverick, was released in theaters in May 2022, with Marks credited with co-writing the film's story with Peter Craig."
+    }
+  },
+  {
+    "pk": 838,
+    "model": "core.person",
+    "fields": {
+      "name": "Peter Craig",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5r0nnz5JJ8bIiUfcK2TaasmJm3h.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": "1969-11-10",
+      "death_date": null,
+      "age": 53,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Peter Craig (born November 10, 1969) is an American novelist and screenwriter best known for writing The Batman (2022), Top Gun: Maverick (2022), The Town (2010) and The Hunger Games: Mockingjay - Part 1 & 2."
+    }
+  },
+  {
+    "pk": 839,
+    "model": "core.person",
+    "fields": {
+      "name": "Tom Cruise",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1962-07-03",
+      "death_date": null,
+      "age": 60,
+      "birth_place": "Syracuse, New York, USA",
+      "biography": "Tom es el \u00fanico hijo (entre cuatro hijos) de padres n\u00f3madas, Mary Lee (Pfeiffer), maestra de educaci\u00f3n especial, y Thomas Cruise Mapother III, ingeniero el\u00e9ctrico. Sus padres eran de Louisville, Kentucky, y \u00e9l tiene ascendencia alemana, irlandesa e inglesa. Young Tom pas\u00f3 su infancia siempre en movimiento, y cuando ten\u00eda 14 a\u00f1os hab\u00eda asistido a 15 escuelas diferentes en los Estados Unidos y Canad\u00e1. Finalmente se estableci\u00f3 en Glen Ridge, Nueva Jersey, con su madre y su nuevo esposo. Mientras estaba en la escuela secundaria, Tom quer\u00eda convertirse en sacerdote, pero muy pronto desarroll\u00f3 un inter\u00e9s en la actuaci\u00f3n y abandon\u00f3 sus planes de convertirse en sacerdote, abandon\u00f3 la escuela y, a la edad de 18 a\u00f1os, se dirigi\u00f3 a Nueva York y una posible carrera como actor. Los pr\u00f3ximos 15 a\u00f1os de su vida son materia de leyendas. Hizo su debut en el cine con una peque\u00f1a parte en Amor sin fin (1981) y desde el principio exhibi\u00f3 un innegable atractivo de taquilla para el p\u00fablico masculino y femenino."
+    }
+  },
+  {
+    "pk": 840,
+    "model": "core.person",
+    "fields": {
+      "name": "Miles Teller",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nh6WOJVFIbVd0eg52B6tqweB6QZ.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1987-02-20",
+      "death_date": null,
+      "age": 36,
+      "birth_place": "Downingtown, Pennsylvania, USA",
+      "biography": "Miles Alexander Teller (born February 20, 1987) is an American actor and musician. An alumnus of NYU's Tisch School of Arts, he appeared in several short films and television movies before making his feature film debut in Rabbit Hole (2010). He had supporting roles in Footloose (2011) and Project X (2012), before garnering critical acclaim for his leading performance as Sutter Keely in The Spectacular Now (2013), for which he was awarded the Sundance Film Festival Special Jury Prize for Dramatic Acting and his role as Andrew Neiman in Whiplash, for which he was nominated for the Gotham Independent Film Award for Best Actor, the Satellite Award for Best Actor - Motion Picture, and the BAFTA Rising Star Award. His other notable films include: Divergent (2014), Bleed for This (2016), War Dogs (2016), and Top Gun: Maverick (2022)."
+    }
+  },
+  {
+    "pk": 841,
+    "model": "core.person",
+    "fields": {
+      "name": "Jennifer Connelly",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3oYDftEbM3YgBiHYcbbIPRNZrTL.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1970-12-12",
+      "death_date": null,
+      "age": 52,
+      "birth_place": "Cairo, New York, USA",
+      "biography": "Jennifer Lynn Connelly (12 de diciembre de 1970) es una actriz estadounidense ganadora del \u00d3scar y el Globo de Oro por su papel en A Beautiful Mind. Asimismo, es reconocida por sus interpretaciones en pel\u00edculas como Labyrinth (1986), Requiem for a Dream (2000), Dark City (1998), Hulk (2003), Casa de arena y niebla (2003) y Diamante de sangre (2006)."
+    }
+  },
+  {
+    "pk": 842,
+    "model": "core.person",
+    "fields": {
+      "name": "Jon Hamm",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1971-03-10",
+      "death_date": null,
+      "age": 52,
+      "birth_place": "St. Louis, Missouri, USA",
+      "biography": "Jonathan Daniel \"Jon\" Hamm (born March 10, 1971) is an American actor who works primarily in television. For much of the mid-1990s, Hamm lived in Los Angeles as a struggling actor appearing in small parts in multiple television series, including Providence, The Division, What About Brian and Related. In 2000 he made his feature film debut in Clint Eastwood's space adventure, Space Cowboys. The following year, Hamm appeared in the independent comedy, Kissing Jessica Stein (2001) in a minor role.\nHamm gained global recognition for playing advertising executive Don Draper in the AMC drama series Mad Men, which premiered in July 2007. Hamm's performance earned him a Golden Globe Award for Best Actor in a Drama Series in 2008. Aside from his work on Mad Men, Hamm appeared in the 2008 science fiction remake, The Day the Earth Stood Still and claimed his first leading film role in the independent thriller Stolen (2010). Hamm had a supporting role in the 2010 crime film The Town."
+    }
+  },
+  {
+    "pk": 843,
+    "model": "core.person",
+    "fields": {
+      "name": "Glen Powell",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lRbbndkwOXyvep9Y7kHiwbh9Ji5.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1988-10-21",
+      "death_date": null,
+      "age": 34,
+      "birth_place": "Austin, Texas, USA",
+      "biography": "Glen Thomas Powell Jr. (born October 21, 1988) is an American actor. He began his career with guest roles on television and small roles in films such as The Dark Knight Rises (2012) and The Expendables 3 (2014) before making his breakthrough performance as Chad Radwell in the Fox comedy-horror series Scream Queens (2015\u20132016). He has since starred as Finnegan in the coming-of-age comedy Everybody Wants Some!! (2016), astronaut John Glenn in the drama Hidden Figures (2016), and Charlie Young in Set It Up (2018), before achieving international recognition and acclaim as Lieutenant Jake \"Hangman\" Seresin in Top Gun: Maverick (2022). He went on to star as aviator Thomas Hudner in Devotion (2022)."
+    }
+  },
+  {
+    "pk": 844,
+    "model": "core.person",
+    "fields": {
+      "name": "Ed Harris",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ryF0KkljweLhPkQ70x6w3u9Qjjj.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1950-11-28",
+      "death_date": null,
+      "age": 72,
+      "birth_place": "Englewood, New Jersey, USA",
+      "biography": "Ed Harris es un actor de teatro, cine y televisi\u00f3n, escritor, productor y director estadounidense, mejor conocido por interpretar personajes secundarios en largometrajes como \"Apollo 13\", \"A Beautiful Mind\" y \"The Truman Show\", adem\u00e1s de muchos papeles recurrentes y protagonistas en programas de televisi\u00f3n, entre ellos la interpretaci\u00f3n de El hombre de negro en \"Westworld\" de HBO. Tiene un BFA en Drama del California Institute of the Arts, Valencia, EE. UU."
+    }
+  },
+  {
+    "pk": 845,
+    "model": "core.person",
+    "fields": {
+      "name": "Val Kilmer",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dZEGiq4XmCiXq9hmz0vVLId010z.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1959-12-31",
+      "death_date": null,
+      "age": 63,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Val Edward Kilmer (31 de diciembre de 1959, Los \u00c1ngeles) es un actor estadounidense.\nNaci\u00f3 en Los \u00c1ngeles, California, hijo de un agente inmobiliario. A los 16 a\u00f1os entra becado en la prestigiosa Julliard School. Comenz\u00f3 a ser popular tras su interpretaci\u00f3n en la obra Slab Boys, que represent\u00f3 en Broadway al lado de Kevin Bacon y Sean Penn. Ha rodado documentales y publicado libros de poes\u00eda. Kilmer intervino en comedias al principio de su carrera, como Top Secret! (1984), y comparti\u00f3 escenas con Tom Cruise en el \u00e9xito de Tony Scott, Top Gun (1986), aunque su encarnaci\u00f3n de Jim Morrison en The Doors, de Oliver Stone, le dio la fama.\nEn 1988 se cas\u00f3 con la actriz Joanne Whalley, de quien terminar\u00eda divorci\u00e1ndose en 1996. Con Joanne compartir\u00eda cr\u00e9ditos en las pel\u00edculas Willow (1988) y Kill me again (1989)."
+    }
+  },
+  {
+    "pk": 846,
+    "model": "core.person",
+    "fields": {
+      "name": "Lewis Pullman",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bar5VvioWtciX9MOfK88H4WDh2g.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1993-01-29",
+      "death_date": null,
+      "age": 30,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Actor estadounidense."
+    }
+  },
+  {
+    "pk": 847,
+    "model": "core.person",
+    "fields": {
+      "name": "Charles Parnell",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5cxJNdHIzDiqHRfC6uKgk4ssEqC.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1975-03-18",
+      "death_date": null,
+      "age": 48,
+      "birth_place": "Chicago, Illinois, USA",
+      "biography": "Charles Parnell (born October 26, 1964) is an American actor. He is best known for being the second actor to portray Police Chief Derek Frye on All My Children, the role of Master Chief Russ Jeter on the TNT show The Last Ship, and the role of Solomon \"Warlock\" Bates in Top Gun: Maverick.\nParnell took over the role of Frye on All My Children, previously played by actor William Christian. He joined the cast of the show on September 8, 2005, and made his final appearance on September 24, 2007. Parnell also provides the voice of Jefferson Twilight on Cartoon Network's The Venture Bros."
+    }
+  },
+  {
+    "pk": 74,
+    "model": "core.film",
+    "fields": {
+      "title": "Top Gun: Maverick",
+      "original_title": "Top Gun: Maverick",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": "$170,000,000.00",
+      "income": "$1,488,732,821.00",
+      "year": "2022-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
+      "certification": "12",
+      "overview": "Despu\u00e9s de m\u00e1s de 30 a\u00f1os de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell se encuentra d\u00f3nde siempre quiso estar, empujando los l\u00edmites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejar\u00eda volar emplaz\u00e1ndolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misi\u00f3n especializada, Maverick se encuentra all\u00ed con el teniente Bradley Bradshaw, el hijo de su difunto amigo \"Goose\".",
+      "category": [
+        0,
+        8
+      ],
+      "duration": "2h 11m",
+      "score": "83%",
+      "director": [
+        833
+      ],
+      "characters": [
+        831,
+        832
+      ],
+      "screenplay": [
+        834,
+        835,
+        836
+      ],
+      "story": [
+        837,
+        838
+      ],
+      "novel": [],
+      "writer": [],
+      "cast": [
+        839,
+        840,
+        841,
+        842,
+        843,
+        844,
+        845,
+        846,
+        847
+      ]
+    }
+  },
+  {
+    "pk": 848,
+    "model": "core.person",
+    "fields": {
+      "name": "Wendy Rogers",
+      "photo": null,
+      "gender": "F",
+      "principal_role": "Equipo",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 849,
+    "model": "core.person",
+    "fields": {
+      "name": "Kate DiCamillo",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 850,
+    "model": "core.person",
+    "fields": {
+      "name": "Martin Hynes",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sNvc1gNN73ee9u1wz27qNf4Ln4k.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "Eugene, Oregon, USA",
+      "biography": null
+    }
+  },
+  {
+    "pk": 851,
+    "model": "core.person",
+    "fields": {
+      "name": "Noah Jupe",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bXe9Z7QHCx7wksNX9Qg9bm4kDAr.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "2005-02-25",
+      "death_date": null,
+      "age": 18,
+      "birth_place": "Islington, London, England, UK",
+      "biography": "Noah Jupe is a British actor. He is known for his roles in the television series The Night Manager (2016); the dark comedy film Suburbicon (2017); the drama film Wonder (2017); the horror film A Quiet Place (2018) and its sequel A Quiet Place Part II (2021); the sports drama film Ford v Ferrari (2019); the drama film Honey Boy (2019), for which he was nominated for the Independent Spirit Award for Best Supporting Male; and the miniseries The Undoing (2020).\nNoah Jupe was born to filmmaker Chris Jupe and actress Katy Cavanagh. He has a younger sister and a younger brother.\nJupe started his acting career in 2015 by appearing in the television series Penny Dreadful and Downton Abbey. Later in 2016, he played a significant role in the spy thriller series The Night Manager. In 2016, he also played a significant role in the series Houdini & Doyle."
+    }
+  },
+  {
+    "pk": 852,
+    "model": "core.person",
+    "fields": {
+      "name": "Mandy Patinkin",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ykKV39t79fm6I88m8CjZFu0oBDU.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1952-11-30",
+      "death_date": null,
+      "age": 70,
+      "birth_place": "Chicago, Illinois, USA",
+      "biography": "Mandy Patinkin is an American stage, film and television actor and tenor vocalist. Patinkin is a noted interpreter of the music of Stephen Sondheim and is known for his work in musical theatre, originating iconic roles such as Georges Seurat in Sunday in the Park with George, Archibald Craven in The Secret Garden and Burrs in The Wild Party. He has also appeared in television series' such as Chicago Hope, Dead Like Me, the first two seasons of Criminal Minds, and Homeland. His most noted film role was as Inigo Montoya in The Princess Bride."
+    }
+  },
+  {
+    "pk": 853,
+    "model": "core.person",
+    "fields": {
+      "name": "Brian Tyree Henry",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1UgDnFt3OteCJQPiUelWzIR5bvT.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1982-03-31",
+      "death_date": null,
+      "age": 41,
+      "birth_place": "Fayetteville, North Carolina, USA",
+      "biography": "Brian Tyree Henry (born March 31, 1982) is an American actor. He is best known for his role as Alfred \"Paper Boi\" Miles in the FX comedy-drama series Atlanta (2016\u20132022), for which he received a Primetime Emmy Award nomination for Outstanding Supporting Actor in a Comedy Series. He is also known for his performances in Boardwalk Empire, How to Get Away with Murder, and This Is Us.\nHenry made his film breakthrough in 2018 with starring roles in Steve McQueen's heist film Widows, Barry Jenkins' romantic drama film If Beale Street Could Talk, and the animated superhero film Spider-Man: Into the Spider-Verse. He's since appeared in Joker (2019), Godzilla vs. Kong (2021), The Woman in the Window (2021), and Bullet Train (2022). He portrayed Phastos in the Marvel Cinematic Universe film Eternals (2021). In 2022, he starred in Causeway (2022) which earned him a nomination for an Academy Award for Best Supporting Actor."
+    }
+  },
+  {
+    "pk": 854,
+    "model": "core.person",
+    "fields": {
+      "name": "Natasia Demetriou",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/65aNRTM520iUaBUoSyfyXHXY8xH.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "London, England, UK",
+      "biography": "Natasia Charlotte Demetriou is an English-Cypriot comedian, actress and screenwriter."
+    }
+  },
+  {
+    "pk": 855,
+    "model": "core.person",
+    "fields": {
+      "name": "Sian Clifford",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rIqcwewXdkrDTMTwX56QPa7MNTC.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1982-04-07",
+      "death_date": null,
+      "age": 41,
+      "birth_place": "London",
+      "biography": null
+    }
+  },
+  {
+    "pk": 856,
+    "model": "core.person",
+    "fields": {
+      "name": "Miranda Richardson",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hgowM36yQz9oBIq4qNyua2Jkz5K.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1958-03-03",
+      "death_date": null,
+      "age": 65,
+      "birth_place": "Southport, Lancashire, England, UK",
+      "biography": "Miranda Jane Richardson (born 3 March 1958) is an English actor. She made her film debut playing Ruth Ellis in Dance with a Stranger (1985) and went on to receive Academy Award nominations for Damage (1992) and Tom & Viv (1994). A seven-time BAFTA Award nominee, she won the BAFTA Award for Best Actress in a Supporting Role for Damage. She has also been nominated for seven Golden Globe Awards, winning twice for Enchanted April (1992) and the TV film Fatherland (1994). In 1996, one critic asserted that she is \"the greatest actress of our time in any medium\" after she appeared in Orlando at the Edinburgh Festival. Richardson began her career in 1979 and made her West End debut in the 1981 play Moving, before being nominated for the 1987 Olivier Award for Best Actress for A Lie of the Mind. Her television credits include Blackadder (1986\u20131989), A Dance to the Music of Time (1997), Merlin (1998), The Lost Prince (2003), Gideon's Daughter (2006), the sitcom The Life and Times of Vivienne Vyle (2007), and Rubicon (2010). She was nominated for the 2015 Primetime Emmy Award for Outstanding Narrator for Operation Orangutan."
+    }
+  },
+  {
+    "pk": 857,
+    "model": "core.person",
+    "fields": {
+      "name": "Kirby Howell-Baptiste",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/neWSyBmw5q2JJiOAXWk4lvWJGlY.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1987-02-07",
+      "death_date": null,
+      "age": 36,
+      "birth_place": "London, England, UK",
+      "biography": "Kirby Howell-Baptiste is an actress who is best known for her memorable roles in \"Killing Eve,\" \"The Good Place,\" \"Barry,\" \"Why Women Kill,\" and \"Veronica Mars.\" Her other television credits include \"Infinity Train,\" \"Love,\" 'Downward Dog,\" \"House Of Lies,\" and \"Comedy Bang! Bang!.\"\nIn 2021, Howell-Baptiste will be seen in the Disney feature \"Cruella\" opposite Emma Stone and Emma Thompson, and will star in the STX Films comedy \"Queenpins,\" a two-hander with Kristen Bell and Howell-Baptiste in co-leading roles. She will also soon be seen in the independent feature \"Silent Night,\" and recently appeared in Saban Films' dark romantic comedy \"Happily.\""
+    }
+  },
+  {
+    "pk": 858,
+    "model": "core.person",
+    "fields": {
+      "name": "Aasif Mandvi",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1966-03-05",
+      "death_date": null,
+      "age": 57,
+      "birth_place": "Mumbai, Maharashtra, India",
+      "biography": "Aasif Mandvi ha tenido una carrera de \u00e9xito en el cine, la televisi\u00f3n y el teatro. Actualmente, podemos ver a Mandvi como corresponsal en Oriente Medio de \"The Daily Show with Jon Stewart\", ganadora de un Emmy\u00ae y del Peabody, que ahora est\u00e1 en su d\u00e9cimo octava temporada.\nLa pel\u00edcula de Mandvi \"Today\u2019s Special\", una tierna comedia Tandoori al estilo de Nueva York, que coescribi\u00f3 y que protagoniza, se estren\u00f3 en los cines de Estados Unidos en 2010. Mandvi interpreta a Samir, un cocinero de talento que sue\u00f1a con convertirse en un gran chef franc\u00e9s. Pero cuando se ve obligado a abandonar su sue\u00f1o y encargarse del restaurante indio de su padre en Jackson Heights, su vida cambia para siempre. La pel\u00edcula, cuyo estreno mundial tuvo lugar en el Festival de Cine de Londres de 2009, aborda los temas de la comida, la familia, el amor, la magia y Nueva York."
+    }
+  },
+  {
+    "pk": 75,
+    "model": "core.film",
+    "fields": {
+      "title": "La elefanta del mago",
+      "original_title": "The Magician's Elephant",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qsIlpIFNavxMZlE0o71LwvUXOTf.jpg",
+      "certification": "PG",
+      "overview": "Peter lleva mucho tiempo buscando a su hermana desaparecida. Por eso, cuando se encuentra con una adivina, solo tiene una pregunta: \u00ab\u00bfSigue viva mi hermana?\u00bb. La adivina le contesta que tiene que buscar a una misteriosa elefanta y al mago capaz de conjurarla. As\u00ed, Peter emprende la gran aventura de su vida: un viaje sobrecogedor para cumplir tres misiones aparentemente imposibles que cambiar\u00e1n para siempre su pueblo.",
+      "category": [
+        3,
+        1,
+        4,
+        5
+      ],
+      "duration": "1h 43m",
+      "score": "72%",
+      "director": [
+        848
+      ],
+      "characters": [],
+      "screenplay": [
+        850
+      ],
+      "story": [],
+      "novel": [
+        849
+      ],
+      "writer": [],
+      "cast": [
+        851,
+        852,
+        853,
+        854,
+        855,
+        830,
+        856,
+        857,
+        858
+      ]
+    }
+  },
+  {
+    "pk": 859,
+    "model": "core.person",
+    "fields": {
+      "name": "Micha\u00ebl Youn",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zSicg5cNaIUXZwkmFQReWy3U5Mf.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1973-12-02",
+      "death_date": null,
+      "age": 49,
+      "birth_place": "Suresnes, Hauts-de-Seine, France",
+      "biography": "Micha\u00ebl Benayoun (born 1973), known professionally as Micha\u00ebl Youn, is a French actor, singer, comedian and television personality.\nYoun was born Micha\u00ebl Benayoun in Suresnes, France, to a family of Hungarian, Italian, Moroccan-Jewish, and Algerian-Jewish descent.\nAfter his education as an announcer and theater actor, Youn joined the Paris radio station Skyrock in 1998. There, he made sketches and further entertainment during the morning show.\nThe popularity and success of Michael Youn, at the most important French private broadcast station brought Youn to the attention of French TV executives. In July 2000, he was hired for the new morning show \"Morning Live\" shown on M\u00e9tropole 6. With Vincent Desagnat and Benjamin Morgaine, Youn did the entertainment part of the show. Like their sketches and public events (e.g. foam bath in a Paris fountain, and waking random Parisians up shooting the slogan of the show at them), their parodies were particularly successful. In particular, they parodied the music scene of Jean-Michel Jarre, casting-popstars, the Grand Prix and French rappers."
+    }
+  },
+  {
+    "pk": 860,
+    "model": "core.person",
+    "fields": {
+      "name": "Matt Alexander",
+      "photo": null,
+      "gender": null,
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 861,
+    "model": "core.person",
+    "fields": {
+      "name": "H\u00e9l\u00e9na Noguerra",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rgEpXWFmfsB0EgZw6c6CsOaoxbu.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1969-05-18",
+      "death_date": null,
+      "age": 53,
+      "birth_place": "Bruxelles, Belgium",
+      "biography": "Helena Noguerra (Brussels, 18 May 1969) is a Belgian actress, singer and television presenter of Portuguese descent. She is the sister of singer Lio. Her songs have been used in commercials and television programmes such as Lunettes noires pour nuits blanches by Thierry Ardisson (1988\u20131990). She sang on the 2010 video game Bayonetta, including both the game's main theme and a cover of Fly Me to the Moon. In 2010 she toured with French band Nouvelle Vague.\nDescription above from the Wikipedia article Helena Noguerra, licensed under CC-BY-SA, full list of contributors on Wikipedia."
+    }
+  },
+  {
+    "pk": 862,
+    "model": "core.person",
+    "fields": {
+      "name": "Lucien Jean-Baptiste",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xbjC2CeFbxZd0iPjgXJuvyNYnZo.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1964-05-06",
+      "death_date": null,
+      "age": 58,
+      "birth_place": "Fort-de-France, Martinique, France",
+      "biography": "Lucien Jean-Baptiste (born 6 May 1964) is a French actor, writer and director.\nHe is the French voice in films starring Chris Rock, Don Cheadle, Martin Lawrence and Ice Cube. His voice is also heard in movies with Terrence Howard, Will Smith, Kevin Hart, Jamie Foxx and Anthony Mackie.\nSource: Article \"Lucien Jean-Baptiste\" from Wikipedia in English, licensed under CC-BY-SA 3.0."
+    }
+  },
+  {
+    "pk": 863,
+    "model": "core.person",
+    "fields": {
+      "name": "Vincent Desagnat",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bQcW7UUHkPiCnBCRRtKIiA2cAro.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1976-03-09",
+      "death_date": null,
+      "age": 47,
+      "birth_place": "Paris, France",
+      "biography": "Il est le dernier fils du r\u00e9alisateur et sc\u00e9nariste Jean-Pierre Desagnat, le petit-fils de l'actrice Francia Seguy, le fr\u00e8re du r\u00e9alisateur et sc\u00e9nariste Fran\u00e7ois Desagnat et du producteur et assistant-r\u00e9alisateur Olivier Desagnat.\nParall\u00e8lement \u00e0 sa carri\u00e8re cin\u00e9matographique, Il fut animateur radio sur Fun radio et Radio Nova, puis a co-anim\u00e9 avec ses complices Benjamin Morgaine et Micha\u00ebl Youn l'\u00e9mission matinale et d\u00e9jant\u00e9e Morning Live diffus\u00e9e simultan\u00e9ment sur M6 et Fun TV de juillet 2000 \u00e0 mars 2002.\nAvant cette reconnaissance par le public t\u00e9l\u00e9visuel, certains ont aussi pu le voir appara\u00eetre en tant que figurant dans le clip \"L'avenir est un long pass\u00e9\" de Manau vers 1998-1999, r\u00e9alis\u00e9 par son fr\u00e8re."
+    }
+  },
+  {
+    "pk": 864,
+    "model": "core.person",
+    "fields": {
+      "name": "Rayane Bensetti",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rUQEDEGFxYrgAiQGk1koeFmAVwB.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1993-04-09",
+      "death_date": null,
+      "age": 30,
+      "birth_place": "Caluire-et-Cuire, Rh\u00f4ne, France",
+      "biography": "Rayane Bensetti (born 9 April 1993 in Caluire-et-Cuire) is a French actor. He is well known for being the winner of the fifth season of Danse avec les stars with the dancer Denitsa Ikonomova.\nAs a child, he starred in commercials, for example Carrefour, Nocib\u00e9 and Toys \"R\" Us.\nHe started on TV in 2008 by being an extra on Il faut sauver Sa\u00efd.\nHis first role was on TV in 2008 with Myst\u00e8re \u00e0 la colo. He later on had a few roles, as TV movie Petits arrangements avec ma m\u00e8re and movie Arr\u00eate de pleurer P\u00e9n\u00e9lope in 2011."
+    }
+  },
+  {
+    "pk": 865,
+    "model": "core.person",
+    "fields": {
+      "name": "Ludovik",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xtYKGmSfGURZYS9C4FHQqOMpFJW.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1989-04-18",
+      "death_date": null,
+      "age": 34,
+      "birth_place": "France",
+      "biography": null
+    }
+  },
+  {
+    "pk": 866,
+    "model": "core.person",
+    "fields": {
+      "name": "Manon Azem",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/81ZofzaZlQ4XKOR9PklmJKEdhcA.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1990-10-12",
+      "death_date": null,
+      "age": 32,
+      "birth_place": "Paris, France",
+      "biography": "Manon Azem begins the theater as well as the dubbing at the age of 5 years. In 2001, she doubles the voice of actress Emma Watson who plays Hermione Granger in Harry Potter at the School of Wizards . She then becomes the official French voice in all films of the Harry Potter saga until 2015. She decides not to double it because, according to her, her voice has become too serious and incompatible with that of the British actress . She is also the French voice of Debby Ryan in Jessie and Joy Lauren in Desperate Housewives .\nIn 2006, she appears in the episode Bad slope of the series Diane, wife cop directed by Marc Angelo.\nAfter obtaining her baccalaureate, she joined the free class, promo 29, Cours Florent in Paris ."
+    }
+  },
+  {
+    "pk": 867,
+    "model": "core.person",
+    "fields": {
+      "name": "Virginie Hocq",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2fuaGvsR2pLeuv3XLSVyBaPt430.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1975-02-26",
+      "death_date": null,
+      "age": 48,
+      "birth_place": "Nivelles, Belgium",
+      "biography": null
+    }
+  },
+  {
+    "pk": 868,
+    "model": "core.person",
+    "fields": {
+      "name": "Gilbert Melki",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/f1TwBvQV0vJTzpws5EL4On9Fb9n.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1958-11-12",
+      "death_date": null,
+      "age": 64,
+      "birth_place": "Paris - France",
+      "biography": null
+    }
+  },
+  {
+    "pk": 76,
+    "model": "core.film",
+    "fields": {
+      "title": "BDE",
+      "original_title": "BDE",
+      "state": "Estrenada",
+      "original_language": "Franc\u00e9s",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ofWJ1UiUFJncIGBV2E9f9CGRFwk.jpg",
+      "certification": "16",
+      "overview": "La historia de cuatro amigos de toda la vida que se conocieron en los a\u00f1os 2000, cuando eran presidentes del BDE del Instituto de Empresa de Nantes. Entonces eran los \"Bioman\": los reyes de la fiesta, el exceso y la \"transmutaci\u00f3n\". 20 a\u00f1os despu\u00e9s, se han suavizado y llevan una vida ordenada. Excepto... Una vez al a\u00f1o, cuando se re\u00fanen para la WEB: el Bioman Weekend. All\u00ed \"transmutan\" con fuerza, como les gusta decir. En resumen: beben y cantan de forma pat\u00e9tica.",
+      "category": [
+        6
+      ],
+      "duration": "1h 46m",
+      "score": "48%",
+      "director": [
+        859
+      ],
+      "characters": [],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        859,
+        860
+      ],
+      "cast": [
+        859,
+        861,
+        862,
+        863,
+        864,
+        865,
+        866,
+        867,
+        868
+      ]
+    }
+  },
+  {
+    "pk": 869,
+    "model": "core.person",
+    "fields": {
+      "name": "Jack Quaid",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nI6ULvUIxxajya5DeTxcCdV3cal.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1992-04-24",
+      "death_date": null,
+      "age": 31,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Jack Henry Quaid (born April 24, 1992) is an American actor. The son of actors Meg Ryan and Dennis Quaid, he made his acting debut with a minor role in the dystopian film The Hunger Games (2012). Quaid had his breakout role as vigilante Hughie Campbell in the Amazon Prime Video superhero series The Boys (2019\u2013present).\nAmong other roles, Quaid was part of the main cast of HBO's drama series Vinyl (2016) and has had numerous voice acting roles such as Brad Boimler in Star Trek: Lower Decks (2020\u2013present). In film, he has appeared in The Hunger Games (2012), Logan Lucky (2017), and as Richie Kirsch in the slasher film Scream (2022)."
+    }
+  },
+  {
+    "pk": 870,
+    "model": "core.person",
+    "fields": {
+      "name": "Mikey Madison",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bcDV4CbxTmOLq2QJbDojxp1oQxF.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1999-03-24",
+      "death_date": null,
+      "age": 24,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Mikey Madison was born on March 25, 1999 in Los Angeles, California, USA. She is an actress, known for Once Upon a Time in Hollywood (2019) and Scream (2022)."
+    }
+  },
+  {
+    "pk": 871,
+    "model": "core.person",
+    "fields": {
+      "name": "David Arquette",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1C5sLNLNVZ3P8sMy7HUQ32IKdqX.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1971-09-08",
+      "death_date": null,
+      "age": 51,
+      "birth_place": "Winchester, Virginia, USA",
+      "biography": "David Arquette (born September 8, 1971) is an American actor, former professional wrestler, director, producer, and fashion designer. In acting, he is best known for his role as Dewey Riley in the slasher film franchise Scream, for which he won a Teen Choice Award and two Blockbuster Entertainment Awards. As a professional wrestler, he is best remembered for his 2000 stint in World Championship Wrestling (WCW), where he won the WCW World Heavyweight Championship and headlined the Slamboree pay-per-view event; he has received praise in recent times for his work on the independent circuit.\nA member of the Arquette acting family, he first became known during the mid-1990s after starring in several Hollywood films aside from the Scream franchise, such as Wild Bill, Never Been Kissed, Buffy the Vampire Slayer, See Spot Run and Eight Legged Freaks. He has since had several television roles, such as Jason Ventress on ABC's In Case of Emergency. Arquette has also voiced Skully on the Disney Channel animated series Jake and the Never Land Pirates, and executive produced the game show Celebrity Name Game, for which he received a Daytime Emmy Award nomination."
+    }
+  },
+  {
+    "pk": 872,
+    "model": "core.person",
+    "fields": {
+      "name": "Neve Campbell",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9fDbXBbrM6L10YrzDJUJowDt8U.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1973-10-03",
+      "death_date": null,
+      "age": 49,
+      "birth_place": "Guelph, Ontario, Canada",
+      "biography": "Neve Adrianne Campbell (born October 3, 1973) is a Canadian actress, who is an influential figure in popular culture, and is recognized for her work in the drama and horror genres. Campbell is regarded as a sex symbol and scream queen, and appeared on People magazine's list of \"50 Most Beautiful People\" twice.\nFollowing a series of minor appearances, Campbell played a starring role in the Canadian drama series Catwalk (1992\u20131994) and the television film The Canterville Ghost (1996), the latter winning her a Family Film Award for Best Actress. She subsequently relocated to the United States to play the role of Julia Salinger in the Fox teen drama series Party of Five (1994\u20132000), which is her breakthrough role, earning her recognition as a teen idol and a nomination for the Teen Choice Award for Choice TV Actress. While on the show, she starred in her first American feature film, headlining the supernatural blockbuster The Craft (1996)."
+    }
+  },
+  {
+    "pk": 873,
+    "model": "core.person",
+    "fields": {
+      "name": "Dylan Minnette",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xSB7K3TpGzOvF3PFTIQG3IAgHMx.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1996-12-29",
+      "death_date": null,
+      "age": 26,
+      "birth_place": "Evansville, Indiana, USA",
+      "biography": "Dylan Christopher Minnette (born December 29, 1996) is an American actor, musician, and singer. He is known for his role as Clay Jensen in the Netflix drama series 13 Reasons Why. He has made guest appearances in several television series, such as Lost, Awake, Scandal, Grey's Anatomy, Supernatural, Prison Break, Scandal and Marvel's Agents of S.H.I.E.L.D.. He is also the lead vocalist and rhythm guitarist for the American alternative rock band Wallows.\nIn films, Minnette has appeared in the horror film Let Me In (2010), the thriller film Prisoners (2013), the family comedy film Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014), the family fantasy film Goosebumps (2015), and the horror films Don't Breathe (2016), The Open House (2018) and Scream (2022)."
+    }
+  },
+  {
+    "pk": 77,
+    "model": "core.film",
+    "fields": {
+      "title": "Scream V",
+      "original_title": "Scream",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": "$24,000,000.00",
+      "income": "$140,041,405.00",
+      "year": "2022-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1L5u2cdXfyMOFhiLYT0UBsjqZmC.jpg",
+      "certification": "16",
+      "overview": "Una nueva entrega de la saga de terror 'Scream' que seguir\u00e1 a una mujer que regresa a su ciudad natal para intentar descubrir qui\u00e9n ha estado cometiendo una serie de cr\u00edmenes atroces.",
+      "category": [
+        11,
+        12,
+        13
+      ],
+      "duration": "2h",
+      "score": "67%",
+      "director": [
+        83,
+        84
+      ],
+      "characters": [
+        82
+      ],
+      "screenplay": [],
+      "story": [],
+      "novel": [],
+      "writer": [
+        85,
+        86
+      ],
+      "cast": [
+        87,
+        90,
+        88,
+        869,
+        870,
+        92,
+        871,
+        872,
+        873
+      ]
+    }
+  },
+  {
+    "pk": 874,
+    "model": "core.person",
+    "fields": {
+      "name": "Fede \u00c1lvarez",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/f8KjBkmqAyNGTUkZh1oYIURP4id.jpg",
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": "1978-02-09",
+      "death_date": null,
+      "age": 45,
+      "birth_place": "Montevideo, Uruguay",
+      "biography": "Federico \"Fede\" \u00c1lvarez (born February 9, 1978) is a Uruguayan director, producer, and screenwriter. He is best known for directing \"Evil Dead\" (2013) and \"Don't Breathe\" (2016)."
+    }
+  },
+  {
+    "pk": 875,
+    "model": "core.person",
+    "fields": {
+      "name": "Rodo Sayagues",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dssAvxmXOkBqziAy7U0k1qzDjXN.jpg",
+      "gender": "M",
+      "principal_role": "Guion",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": "Rodo Sayagues is an Uruguayan screenwriter, producer, lyricist, actor, and director best known for his work on the Fede \u00c1lvarez-directed films Evil Dead (2013) and Don't Breathe (2016), and for helming Don't Breathe 2 (2021)."
+    }
+  },
+  {
+    "pk": 876,
+    "model": "core.person",
+    "fields": {
+      "name": "Jane Levy",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4tkkbO34BNjVf1sPwT7pmUNwzwT.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1989-12-29",
+      "death_date": null,
+      "age": 33,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Jane Colburn Levy (born December 29, 1989) is an American actress. After attending the Stella Adler Studio of Acting, she debuted as the original Mandy Milkovich on the Showtime comedy-drama Shameless (2011). Levy left Shameless following its first season to portray the lead of the ABC sitcom Suburgatory from 2011 to 2014. Transitioning to film, Levy collaborated with director Fede \u00c1lvarez as the lead of the horror films Evil Dead (2013) and Don't Breathe (2016). She returned to television with series regular roles on the Hulu comedy-drama There's... Johnny! (2017) and horror fantasy Castle Rock (2018), in addition to headlining the Netflix thriller miniseries What/If (2019). From 2020 to 2021, Levy portrayed the title character of the NBC musical comedy-drama Zoey's Extraordinary Playlist, for which she received a Golden Globe nomination for Best Actress \u2013 Television Series Musical or Comedy."
+    }
+  },
+  {
+    "pk": 877,
+    "model": "core.person",
+    "fields": {
+      "name": "Shiloh Fernandez",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nO4zJduiy3lhbpf01R1J0BKGJUc.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-02-26",
+      "death_date": null,
+      "age": 38,
+      "birth_place": "Ukiah, California, U.S.",
+      "biography": "From Wikipedia, the free encyclopedia.  \nShiloh Thomas Fernandez (born February 26, 1985) is an American actor and model, best known for his roles in Jericho, Deadgirl and United States of Tara, as well as portraying Peter in the film Red Riding Hood.\nDescription above from the Wikipedia article Shiloh Fernandez, licensed under CC-BY-SA, full list of contributors on Wikipedia."
+    }
+  },
+  {
+    "pk": 878,
+    "model": "core.person",
+    "fields": {
+      "name": "Lou Taylor Pucci",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cXL7uzb6p1H7u59wdMhjyNgMxQo.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-07-27",
+      "death_date": null,
+      "age": 37,
+      "birth_place": "Seaside Heights, New Jersey, USA",
+      "biography": "From Wikipedia, the free encyclopedia. Lou Taylor Pucci (born July 27, 1985) is an American actor who first appeared on film in Rebecca Miller's well received Personal Velocity: Three Portraits in 2002. Pucci was born in Seaside Heights, New Jersey and at 2 years old, moved to Keansburg, New Jersey. A graduate of Christian Brothers Academy in Lincroft, he currently lives in Venice, California. He first acted at the age of ten in a hometown production of Oliver!. Just two years later he was on Broadway playing Freidrich in The Sound of Music. He can be seen in Arie Posin's The Chumscrubber, the HBO miniseries Empire Falls, and starring as the lead in Mike Mills' film Thumbsucker, for which he received the Special Jury Prize for Acting at the 2005 Sundance Film Festival and the Silver Bear Award for Best Actor at the 2005 Berlin Film Festival. He also played the title character in Green Day's \"Jesus of Suburbia\" music video. Pucci currently had three films that screened at the 2009 Sundance Film Festival: Brief Interviews with Hideous Men, directed by John Krasinski of The Office; The Informers, with Billy Bob Thornton, Winona Ryder, Kim Basinger and Mickey Rourke, based on Bret Easton Ellis' collection of short stories of the same name; and Arlen Faber (formerly The Dream of the Romans) with Jeff Daniels and Lauren Graham. Pucci was also a juror for the short film competition. Description above from the Wikipedia article Lou Taylor Pucci, licensed under CC-BY-SA, full list of contributors on Wikipedia"
+    }
+  },
+  {
+    "pk": 879,
+    "model": "core.person",
+    "fields": {
+      "name": "Jessica Lucas",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nYS2J93VapM1GW5UdqMFqCxVMUv.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1985-09-24",
+      "death_date": null,
+      "age": 37,
+      "birth_place": "Vancouver, British Columbia, Canada",
+      "biography": "Jessica Lucas (born September 24, 1985) is a Canadian actress. She is known for her roles in television, such as Edgemont, Melrose Place, Cult, and Gotham, and in the films The Covenant, Cloverfield and the 2013 Evil Dead. She also starred in the music video for Coldplay's 2014 single \"True Love\"."
+    }
+  },
+  {
+    "pk": 880,
+    "model": "core.person",
+    "fields": {
+      "name": "Elizabeth Blackmore",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8IFEnd9hBbrQOleqTvjyuTlfQXu.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1987-01-06",
+      "death_date": null,
+      "age": 36,
+      "birth_place": "Perth, Australia",
+      "biography": "Elizabeth Blackmore is an Australian film and television actress, best known for portraying Valerie Tulle in the television series \"The Vampire Diaries\". She's a graduate of the Western Australian Academy of Performing Arts at Edith Cowan University, Perth, Australia."
+    }
+  },
+  {
+    "pk": 881,
+    "model": "core.person",
+    "fields": {
+      "name": "Phoenix Connolly",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AhFDKJwF1J6QLbemYfNLrDps26p.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1994-09-05",
+      "death_date": null,
+      "age": 28,
+      "birth_place": "Wellington, New Zealand",
+      "biography": null
+    }
+  },
+  {
+    "pk": 882,
+    "model": "core.person",
+    "fields": {
+      "name": "Jim McLarty",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jKct2L7VLmUVaj8T506j8IigtiJ.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": "Canada",
+      "biography": "Jim McLarty is a New Zealand actor who featured throughout the Power Rangers franchise. He is also served as the ADR supervisor for Power Rangers Ninja Steel, Power Rangers Super Ninja Steel & Power Rangers Beast Morphers"
+    }
+  },
+  {
+    "pk": 883,
+    "model": "core.person",
+    "fields": {
+      "name": "Sian Davis",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jXBUr6HKIZpaD0cHV5JrF1zsfV.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 884,
+    "model": "core.person",
+    "fields": {
+      "name": "Stephen Butterworth",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2VN1rrznaUB7my0Tm5DPwXMe5rS.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 78,
+    "model": "core.film",
+    "fields": {
+      "title": "Posesi\u00f3n infernal (Evil Dead)",
+      "original_title": "Evil Dead",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": "$17,000,000.00",
+      "income": "$97,542,952.00",
+      "year": "2013-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oyQQOW3Be36MRRC3Rwd7Qubugxj.jpg",
+      "certification": "18",
+      "overview": "Cinco amigos se alojan en una caba\u00f1a de Tenessee para as\u00ed poder ayudar a una de los j\u00f3venes, que se encuentra en rehabilitaci\u00f3n por drogas. Estar sin sus drogas convierte a la chica en una persona agresiva, lo que llevar\u00e1 a sus amigos a no darse cuenta de que en realidad esta pose\u00edda por demonios que fueron desatados al leer el Necromicon... Remake del cl\u00e1sico de Raimi.",
+      "category": [
+        11
+      ],
+      "duration": "1h 30m",
+      "score": "65%",
+      "director": [
+        874
+      ],
+      "characters": [],
+      "screenplay": [
+        874,
+        875
+      ],
+      "story": [],
+      "novel": [],
+      "writer": [],
+      "cast": [
+        876,
+        877,
+        878,
+        879,
+        880,
+        881,
+        882,
+        883,
+        884
+      ]
+    }
+  },
+  {
+    "pk": 885,
+    "model": "core.person",
+    "fields": {
+      "name": "John Swab",
+      "photo": null,
+      "gender": "M",
+      "principal_role": "Direcci\u00f3n",
+      "birth_date": null,
+      "death_date": null,
+      "age": null,
+      "birth_place": null,
+      "biography": null
+    }
+  },
+  {
+    "pk": 886,
+    "model": "core.person",
+    "fields": {
+      "name": "Frank Grillo",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/br2nPzelch2Tb3pZHnYAbXng7cz.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1965-06-08",
+      "death_date": null,
+      "age": 57,
+      "birth_place": "New York City, New York, USA",
+      "biography": "Frank Anthony Grillo (8 de junio de 1965) es un actor y modelo estadounidense conocido por sus papeles en la saga de pel\u00edculas de La Purga (The Purge: Anarchy y The Purge: Election Year). En el Universo Cinematogr\u00e1fico de Marvel como Brock Rumlow y Frank Campana en Warrior. Interpret\u00f3 el papel de Nick Savrinn en la primera temporada de Prison Break."
+    }
+  },
+  {
+    "pk": 887,
+    "model": "core.person",
+    "fields": {
+      "name": "Eric Dane",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qa9WV0VS3Xin0M2shAT0268c1nb.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1972-11-09",
+      "death_date": null,
+      "age": 50,
+      "birth_place": "San Francisco, California, USA",
+      "biography": "Eric Dane (born Eric T. Melvin, November 9, 1972) is an American actor. After appearing in television roles throughout the 2000s with his recurring role as Jason Dean in Charmed being the best known, he became famous for playing Dr. Mark Sloan (McSteamy) on the medical drama television series Grey's Anatomy, as well as films, co-starring in Marley & Me (2008), Valentine's Day (2010), and Burlesque (2010). He starred as Captain Tom Chandler in the post-apocalyptic drama The Last Ship. He currently stars as Cal Jacobs in the HBO series, Euphoria."
+    }
+  },
+  {
+    "pk": 888,
+    "model": "core.person",
+    "fields": {
+      "name": "Annabeth Gish",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wfUaE95xUJ3Kh5okDpUMZNmbcom.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1971-03-13",
+      "death_date": null,
+      "age": 52,
+      "birth_place": "Albuquerque, New Mexico, USA",
+      "biography": "Annabeth Gish is an American actress. She has played roles in films Shag, Hiding Out, Mystic Pizza, SLC Punk!, The Last Supper and Double Jeopardy."
+    }
+  },
+  {
+    "pk": 889,
+    "model": "core.person",
+    "fields": {
+      "name": "Mercedes Mason",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/56sOwTwRCaEJL2SkgCkTHNPSF55.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1983-03-03",
+      "death_date": null,
+      "age": 40,
+      "birth_place": "Link\u00f6ping, Sweden",
+      "biography": "Mercedes Mason (born Mercedes Mas\u00f6hn) is a Swedish film and television actress, best known for playing the female lead roles of Deputy U.S. Marshal Isabel Zambada in the American procedural drama The Finder as well as main character Ofelia Salazar in the television series Fear The Walking Dead."
+    }
+  },
+  {
+    "pk": 890,
+    "model": "core.person",
+    "fields": {
+      "name": "Peter Greene",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/d7TiuUSlihDEuutZrF8IYrzEX1S.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1965-10-08",
+      "death_date": null,
+      "age": 57,
+      "birth_place": "Montclair, New Jersey, USA",
+      "biography": "Peter Greene (born Peter Green; October 8, 1965) is an American character actor.\nA native of Montclair, New Jersey, Greene did not pursue a career in acting until his mid 20s. He initially landed several roles in cinema and television in the early 1990s.\nGreene's breakthrough came in 1994-1995 with a roles in Pulp Fiction, The Mask, Clean, Shaven, and The Usual Suspects. Greene is possibly best remembered for his role in Pulp Fiction, as Zed who rapes Marsellus Wallace. The Mask saw him play the villainous Dorian Tyrell opposite Jim Carrey and Cameron Diaz. Greene's most accomplished role was that of schizophrenic Peter Winter in Clean, Shaven. The Usual Suspects saw him play the small but memorable character, Redfoot. Greene often plays villains such as in Under Siege 2: Dark Territory, Training Day (as a corrupt narcotics officer) and martial arts/crime film Fist of the Warrior (opposite Ho-Sung Pak, Roger Guenveur Smith and Sherilyn Fenn)."
+    }
+  },
+  {
+    "pk": 891,
+    "model": "core.person",
+    "fields": {
+      "name": "Beau Knapp",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/246hy6vVtTQ26R8iXHCXcwwbGSu.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1988-04-17",
+      "death_date": null,
+      "age": 35,
+      "birth_place": "Los Angeles, California, USA",
+      "biography": "Beau Knapp is an actor."
+    }
+  },
+  {
+    "pk": 892,
+    "model": "core.person",
+    "fields": {
+      "name": "Thomas Dekker",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vnvau503DLJOXxLkBaDCoX5iTwY.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1987-12-28",
+      "death_date": null,
+      "age": 35,
+      "birth_place": "Las Vegas, Nevada, USA",
+      "biography": "Thomas Alexander Dekker (born December 28, 1987) is an American film and television actor and a musician. He is also a singer and has written and produced two albums. He is best known for his roles as John Connor in Terminator: The Sarah Connor Chronicles, Nick Szalinski on Honey, I Shrunk the Kids: The TV Show, and Zach on Heroes. He also did the voice of Littlefoot in The Land Before Time V-IX (singing voice in The Land Before Time V) and as Fievel Mousekewitz in An American Tail: The Treasure of Manhattan Island and An American Tail: The Mystery of the Night Monster. He is also known for playing Jesse Braun in the 2010 remake of A Nightmare on Elm Street, and recently, Smith in Gregg Araki's film Kaboom.\nDescription above from the Wikipedia article Thomas Dekker (actor), licensed under CC-BY-SA, full list of contributors on Wikipedia"
+    }
+  },
+  {
+    "pk": 893,
+    "model": "core.person",
+    "fields": {
+      "name": "Maurice Compte",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9PFInf2I0kqjAU0CmZhdDWmHfwT.jpg",
+      "gender": "M",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "age": 54,
+      "birth_place": "New Orleans, Louisiana, USA",
+      "biography": "Maurice Compte is an actor and director."
+    }
+  },
+  {
+    "pk": 894,
+    "model": "core.person",
+    "fields": {
+      "name": "Sufe Bradshaw",
+      "photo": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5jfG8O8EKOv2171laVM7A6VCdVW.jpg",
+      "gender": "F",
+      "principal_role": "Interpretaci\u00f3n",
+      "birth_date": "1986-04-16",
+      "death_date": null,
+      "age": 37,
+      "birth_place": "Chicago, Illinois, USA",
+      "biography": null
+    }
+  },
+  {
+    "pk": 79,
+    "model": "core.film",
+    "fields": {
+      "title": "Little Dixie",
+      "original_title": "Little Dixie",
+      "state": "Estrenada",
+      "original_language": "Ingl\u00e9s",
+      "budget": null,
+      "income": null,
+      "year": "2023-01-01",
+      "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+      "certification": "R",
+      "overview": "Doc facilita una fr\u00e1gil tregua entre el Gobernador y un cartel, intercambiando indulgencia fiscal por finanzas. Cuando esta tregua se disuelve, Doc debe valerse por s\u00ed mismo y proteger lo \u00fanico inmaculado en su vida: su hija, Little Dixie.",
+      "category": [
+        13,
+        0,
+        8,
+        14
+      ],
+      "duration": "1h 45m",
+      "score": "60%",
+      "director": [
+        885
+      ],
+      "characters": [],
+      "screenplay": [
+        885
+      ],
+      "story": [],
+      "novel": [],
+      "writer": [],
+      "cast": [
+        886,
+        887,
+        888,
+        889,
+        890,
+        891,
+        892,
+        893,
+        894
+      ]
+    }
   }
 ]

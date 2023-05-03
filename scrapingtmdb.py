@@ -262,7 +262,8 @@ class ScrapingFilm(Scraping):
         facts = title.find_element(By.XPATH, self.facts_xpath)
         self.certification = self._prepare_info(facts, self.certification_xpath)
         self.category = self._prepare_info(facts, self.genres_xpath)
-        self.duration = facts.find_element(By.XPATH, self.duration_xpath).text
+        self.duration = self._prepare_info(facts, self.duration_xpath)
+        #self.duration = facts.find_element(By.XPATH, self.duration_xpath).text
         self.score = self._prepare_info(poster, self.score_xpath)
         self.overview = poster.find_element(By.XPATH, self.overview_xpath).text
         self._prepare_info(poster, self.people_xpath)
@@ -307,7 +308,9 @@ class ScrapingFilm(Scraping):
 
 if __name__ == '__main__':
     xpath = '//div[contains(@class, "card")]//a[@class="image"]'
-    for n in range(1, 5):
+    start_page = 1
+    end_page = 5
+    for n in range(start_page, end_page):
         scrap_url = f'/movie?page={n}'
         s = Scraping(scrap_url, 'page_wrapper')
         s.get_page()
