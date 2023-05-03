@@ -234,7 +234,10 @@ class ScrapingFilm(Scraping):
                 return None
             return info
 
-        info = webelement.find_element(By.XPATH, xpath).text
+        try:
+            info = webelement.find_element(By.XPATH, xpath).text
+        except NoSuchElementException:
+            return None
 
         if xpath == '//h2/span':  # year
             info = info.replace('(', '').replace(')', '-01-01')
@@ -257,7 +260,7 @@ class ScrapingFilm(Scraping):
         self.title = title.find_element(By.XPATH, '//h2/a').text
         self.year = self._prepare_info(title, '//h2/span')
         facts = title.find_element(By.XPATH, self.facts_xpath)
-        self.certification = facts.find_element(By.XPATH, self.certification_xpath).text
+        self.certification = self._prepare_info(facts, self.certification_xpath)
         self.category = self._prepare_info(facts, self.genres_xpath)
         self.duration = facts.find_element(By.XPATH, self.duration_xpath).text
         self.score = self._prepare_info(poster, self.score_xpath)
