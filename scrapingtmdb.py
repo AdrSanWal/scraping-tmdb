@@ -263,7 +263,6 @@ class ScrapingFilm(Scraping):
         self.certification = self._prepare_info(facts, self.certification_xpath)
         self.category = self._prepare_info(facts, self.genres_xpath)
         self.duration = self._prepare_info(facts, self.duration_xpath)
-        #self.duration = facts.find_element(By.XPATH, self.duration_xpath).text
         self.score = self._prepare_info(poster, self.score_xpath)
         self.overview = poster.find_element(By.XPATH, self.overview_xpath).text
         self._prepare_info(poster, self.people_xpath)
