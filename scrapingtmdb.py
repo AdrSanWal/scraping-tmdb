@@ -196,7 +196,10 @@ class ScrapingFilm(Scraping):
             for person in people:
                 if 'filler' in person.get_attribute("class"):
                     break
-                name, roles = person.text.split('\n')
+                try:
+                    name, roles = person.text.split('\n')
+                except ValueError:
+                    name = person.text
                 url_person = person.find_element(By.LINK_TEXT, name).get_attribute("href")
                 last_path = path.basename(path.normpath(url_person))
                 f = Fixture('person')
