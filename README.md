@@ -10,4 +10,4 @@ terminos de uso: https://www.themoviedb.org/documentation/api/terms-of-use.
 Este scraping vuelca los datos obtenidos en data.json, que actualmente contiene las paginas de peliculas de la 1 a la 5
 (en torno a 1000 fixtures. Para obtener más datos modificar start_page y end_page del script.
 
-Por ahora selenium no está preparado para trabajar en segundo plano
+Por ahora el script no está habilitado para que selenium trabaje en segundo plano.
